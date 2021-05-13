@@ -11,10 +11,10 @@ class App extends React.Component {
       return (
           <div className="App">
             <div id="navbar">
-              <a id="home" class="active"><img src="data/TaskBarIcons/home_red.png"></img> HOME</a>
-              <a id="about"><img src="data/TaskBarIcons/about_orange.png"></img> ABOUT</a>
-              <a id="portfolio"><img src="data/TaskBarIcons/portfolio_orange.png"></img> PORTFOLIO</a>
-              <a id="bookseries"><img src="data/TaskBarIcons/book_orange.png"></img> BOOK SERIES</a>
+              <a id="home" class="active"><Link to="/"><img src="data/TaskBarIcons/home_red.png"></img> HOME</Link></a>
+              <a id="about"><Link to="/about"><img src="data/TaskBarIcons/about_orange.png"></img> ABOUT</Link></a>
+              <a id="portfolio"><Link to="/porfolio"><img src="data/TaskBarIcons/portfolio_orange.png"></img> PORTFOLIO</Link></a>
+              <a id="bookseries"><Link to="/bookseries"><img src="data/TaskBarIcons/book_orange.png"></img> BOOK SERIES</Link></a>
             </div>
             <Switch>
             <Route exact path="/">
