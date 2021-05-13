@@ -1,0 +1,320 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("lib/fonts/Roboto/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "Roboto Thin";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:100");
+}
+@font-face {
+  font-family: "Roboto Light";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:300");
+}
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:500");
+}
+@font-face {
+  font-family: "Roboto Bold";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:700");
+}
+
+@font-face {
+  font-family: "Raleway Regular";
+  src: url("lib/fonts/Raleway/static/Raleway-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Raleway Bold";
+  src: url("lib/fonts/Raleway/static/Raleway-SemiBold.ttf");
+}
+
+* {
+  font-family: "Raleway Regular", sans-serif;
+}
+
+body {
+
+  background: #F37121;
+  margin: 0.5%;
+}
+
+#navbar {
+  width: 100%;
+  height: 6%;
+  background: black;
+  top: 0%;
+  left: 0%;
+  /*position: fixed;*/
+}
+
+#navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  /*padding: 14px 16px;*/
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  /*padding: 12px;*/
+  padding: 0px;
+  /*display: inline;*/
+  vertical-align: center;
+}
+
+#navbar img {
+  height: 60%;
+  align-content: center;
+  vertical-align: center;
+  padding-top: 2%;
+}
+
+#navbar a {
+  /*padding:12px 0 13px 0;
+  margin:0;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;*/
+}
+#navbar a:hover { 
+  background:#A26A42;
+  border:none;
+}
+
+
+
+/*
+.logo-image {
+  width: 20px;
+  height: 20px;
+  vertical-align: center;
+}
+
+
+.logo-image img {
+  height: 100%;
+  width: 100%;
+  align-content: center;
+  vertical-align: center;
+}
+*/
+
+#mainBody {
+  position: fixed;
+  top: 6%;
+  left: 0%;
+  /*bottom: 0;*/
+  width: 98%;
+  height: 90.5%;
+  margin: 1%;
+}
+
+#bodyNav {
+  /*position: relative;*/
+  top: 0%;
+  left: 0%;
+  background: #C0E218;
+  width: 60%;
+  height: 16%;
+  padding: 5px;
+  /* Will add padding without increasing div size*/
+  box-sizing: border-box;
+  margin-bottom: 0.5%;
+}
+
+#bodyNav1 {
+  width: 24%;
+  height: 100%;
+  /*background: pink;*/
+  display: inline-block;
+  vertical-align: top;
+}
+
+#bodyLogo {
+  height: 75%;
+  width: 100%;
+}
+
+#bodyLogo img {
+  height: 100%;
+  width: 100%;
+  align-content: center;
+  vertical-align: center;
+}
+
+#bodyTitle {
+  /*top: 60%;*/
+  left: 0%;
+  width: 100%;
+  height: 40%;
+  text-align: center;
+  font-weight: 400;
+}
+
+#bodyNav2 {
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  /*background: red;*/
+  vertical-align: top;
+  text-align: center;
+}
+
+#bodyNav3 {
+  width: 24%;
+  height: 100%;
+  display: inline-block;
+  /*background: yellow;*/
+  vertical-align: top;
+}
+
+#features {
+  top: 5px;
+  left: 75%;
+  width: 24%;
+  height: 98%;
+  /*background-color: white;*/
+  /*border: solid;
+  border-width: 2px;*/
+  /*z-index: 10;*/
+  border-color: white;
+}
+
+#volumeViewContainer {
+  position: relative;
+  /*bottom: 0;*/
+  width: 60%;
+  height: 80%;
+  overflow-y: scroll;
+  background: white;
+}
+#volumeView {
+  width: 100%;
+}
+
+/*
+#spineView {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 80%;
+  height: 30%;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+*/
+
+.title {
+  font-weight: bold;
+  background: #f7f9f9;
+  display: table;
+}
+.large {
+  font-size: 30;
+}
+.selection {
+  stroke: #ff00c1;
+}
+
+
+#textSpaceContainer {
+  background: #f7f9f9;
+  /*height: 40vh;*/
+  top: 10%;
+  left: 40%;
+  width: 55%;
+  position: absolute;
+  pointer-events: none;
+  overflow-y: scroll;
+}
+
+rect {
+  cursor: pointer;
+}
+.cover {
+  stroke-width: 6;
+}
+/*
+#storyListContainer {
+  position: fixed;
+  overflow-y: scroll;
+  width: 20%;
+  height: 70%;
+  right: 0;
+  top:  0;
+}
+#viewMenu {
+  position: fixed;
+  display: block;
+  right: 0;
+  bottom: 0;
+  width: 20%;
+  height: 30%;
+  text-anchor: middle;
+}
+#dropdown {
+  background: grey;
+  color: white;
+  cursor: pointer;
+}
+
+.spine {
+  stroke-width: 3;
+}
+#listItem {
+  cursor: pointer;
+}
+.medium {
+  font-size: 20;
+}
+.small {
+  font-size: 15;
+}
+.storyAnthology {
+  margin-bottom: 5px;
+}
+.storyItem {
+  cursor: pointer;
+  margin-top: 25px;
+}
+.abstract {
+  margin-top: 5px;
+  font-size: 15;
+}
+.author {
+  margin-top: 10px;
+  font-size: 20;
+  font-weight: bold;
+}
+.super circle {
+  fill: white;
+  stroke-width: 0px;
+}
+.parent circle {
+  fill: white;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+  stroke-dasharray: 4;
+  opacity: 0.5;
+}
+.leaf circle {
+  cursor: pointer;
+  stroke-width: 3;
+  color: null;
+}
+.ill {
+  stroke-width: 3;
+  color: null;
+  cursor: pointer;
+}
+
+.authorList {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  display: inline-block;
+  background: #f7f9f9;
+}
+#dropdown {
+  font-size: 16;
+}
+*/
