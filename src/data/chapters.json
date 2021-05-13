@@ -1,0 +1,3494 @@
+[
+  {
+    "chapter_num" : "1",
+    "volume_num" : "1",
+    "title_eng" : "ROMANCE DAWN - The Dawn of the Adventure",
+    "title_jap" : "ROMANCE DAWN - 冒険の夜明け—",
+    "release_date" : "07/19/1997",
+    "pages" : "53",
+    "characters" : ["Monkey D. Luffy", "Gol D. Roger", "Shanks", "Benn Beckman", "Lucky Roux", "Yasopp", "Makino", "Woop Slap", "Gyoru", "Chicken", "Anjo", "Lord of the Coast", "Monster", "Higuma", "Mikio Itoo"]
+  },
+  {
+    "chapter_num" : "2",
+    "volume_num" : "1",
+    "title_eng" : "That Guy, \\\"Straw Hat Luffy\\\"",
+    "title_jap" : "その男\\\"麦わらのルフィ\\\"",
+    "release_date" : "07/28/1997",
+    "pages" : "23",
+    "characters" : ["Monkey D. Luffy", "Koby", "Alvida", "Heppoko", "Peppoko", "Poppoko", "Roronoa Zoro"]
+  },
+  {
+    "chapter_num" : "3",
+    "volume_num" : "1",
+    "title_eng" : "Introducing Pirate Hunter Zoro",
+    "title_jap" : "\\\"海賊狩りのゾロ\\\"登場",
+    "release_date" : "08/04/1997",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Koby", "Roronoa Zoro", "Morgan", "Helmeppo", "Rika", "Soro", "Mikio Itoo"]
+  },
+  {
+    "chapter_num" : "4",
+    "volume_num" : "1",
+    "title_eng" : "Marine Captain \\\"Axe-Hand Morgan\\\"",
+    "title_jap" : "海軍大佐\\\"斧手のモーガン\\\"",
+    "release_date" : "08/11/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Koby", "Roronoa Zoro", "Morgan", "Rokkaku", "Ukkari", "Helmeppo", "Rika", "Ririka"]
+  },
+  {
+    "chapter_num" : "5",
+    "volume_num" : "1",
+    "title_eng" : "Pirate King and Master Swordsman",
+    "title_jap" : "海賊王と大剣豪",
+    "release_date" : "08/25/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Koby", "Roronoa Zoro", "Morgan", "Helmeppo", "Kuina", "Koushirou"]
+  },
+  {
+    "chapter_num" : "6",
+    "volume_num" : "1",
+    "title_eng" : "The First Crew Member",
+    "title_jap" : "1人目",
+    "release_date" : "09/01/1997",
+    "pages" : "23",
+    "characters" : ["Monkey D. Luffy", "Koby", "Roronoa Zoro", "Morgan", "Helmeppo"]
+  },
+  {
+    "chapter_num" : "7",
+    "volume_num" : "1",
+    "title_eng" : "Friends",
+    "title_jap" : "友達",
+    "release_date" : "09/08/1997",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Koby", "Roronoa Zoro", "Morgan", "Helmeppo", "Ripper", "Rika", "Ririka", "Buggy", "Shanks"]
+  },
+  {
+    "chapter_num" : "8",
+    "volume_num" : "1",
+    "title_eng" : "Introducing Nami",
+    "title_jap" : "ナミ登場",
+    "release_date" : "09/15/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tightrope Walking Funan Bros", "Superhuman Domingos", "Pinky"]
+  },
+  {
+    "chapter_num" : "9",
+    "volume_num" : "2",
+    "title_eng" : "The Devil Girl",
+    "title_jap" : "魔性の女",
+    "release_date" : "09/22/1997",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Mohji", "Richie", "Cabaji", "Tightrope Walking Funan Bros", "Superhuman Domingos", "Domo-kun"]
+  },
+  {
+    "chapter_num" : "10",
+    "volume_num" : "2",
+    "title_eng" : "The Incident at the Bar",
+    "title_jap" : "酒場の一件",
+    "release_date" : "09/29/1997",
+    "pages" : "23",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Acrobatic Fuwas"]
+  },
+  {
+    "chapter_num" : "11",
+    "volume_num" : "2",
+    "title_eng" : "Take Flight",
+    "title_jap" : "敗走",
+    "release_date" : "10/06/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Acrobatic Fuwas"]
+  },
+    {
+    "chapter_num" : "12",
+    "volume_num" : "2",
+    "title_eng" : "Dog",
+    "title_jap" : "犬",
+    "release_date" : "10/13/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Mohji", "Richie", "Acrobatic Fuwas", "Boodle", "Chouchou", "Hocker"]
+  },
+  {
+    "chapter_num" : "13",
+    "volume_num" : "2",
+    "title_eng" : "Treasure",
+    "title_jap" : "宝物",
+    "release_date" : "10/20/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Buggy", "Mohji", "Richie", "Boodle", "Chouchou", "Hocker"]
+  },
+  {
+    "chapter_num" : "14",
+    "volume_num" : "2",
+    "title_eng" : "Reckless!!",
+    "title_jap" : "無謀っ!!",
+    "release_date" : "10/27/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Mohji", "Richie", "Acrobatic Fuwas", "Boodle", "Chouchou", "Poro"]
+  },
+  {
+    "chapter_num" : "15",
+    "volume_num" : "2",
+    "title_eng" : "Gong",
+    "title_jap" : "GONG",
+    "release_date" : "11/03/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Cabaji", "Acrobatic Fuwas", "Boodle"]
+  },
+  {
+    "chapter_num" : "16",
+    "volume_num" : "2",
+    "title_eng" : "Versus The Buggy Pirate Crew",
+    "title_jap" : "VERSUS!!バギー海賊団",
+    "release_date" : "11/10/1997",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Mohji", "Richie", "Cabaji", "Acrobatic Fuwas", "Boodle"]
+  },
+  {
+    "chapter_num" : "17",
+    "volume_num" : "2",
+    "title_eng" : "Character",
+    "title_jap" : "格",
+    "release_date" : "11/17/1997",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Cabaji", "Acrobatic Fuwas"]
+  },
+  {
+    "chapter_num" : "18",
+    "volume_num" : "3",
+    "title_eng" : "Pirate Buggy the Clown",
+    "title_jap" : "海賊\\\"道化のバギー\\\"",
+    "release_date" : "11/24/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy", "Mohji", "Cabaji", "Acrobatic Fuwas", "Boodle", "Shanks"]
+  },
+  {
+    "chapter_num" : "19",
+    "volume_num" : "3",
+    "title_eng" : "Devil Fruit",
+    "title_jap" : "悪魔の実",
+    "release_date" : "12/01/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Buggy", "Acrobatic Fuwas", "Silvers Rayleigh", "Scopper Gaban", "Shanks", "Boodle", "Poro"]
+  },
+  {
+    "chapter_num" : "20",
+    "volume_num" : "3",
+    "title_eng" : "A Thief's Philosophy",
+    "title_jap" : "泥棒道",
+    "release_date" : "12/08/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Buggy"]
+  },
+  {
+    "chapter_num" : "21",
+    "volume_num" : "3",
+    "title_eng" : "Town",
+    "title_jap" : "町",
+    "release_date" : "12/22/1997",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Mohji", "Cabaji", "Tightrope Walking Funan Bros", "Acrobatic Fuwas", "Boodle", "Chouchou", "Poro"]
+  },
+  {
+    "chapter_num" : "22",
+    "volume_num" : "3",
+    "title_eng" : "You're the Rare Breed",
+    "title_jap" : "あんたが珍獣",
+    "release_date" : "01/05/1998",
+    "pages" : "29",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Gaimon", "Cocox", "Usagihebi", "Lionbuta"]
+  },
+  {
+    "chapter_num" : "23",
+    "volume_num" : "3",
+    "title_eng" : "Captain Usopp Appears",
+    "title_jap" : "キャプテン･ウソップ登場",
+    "release_date" : "01/12/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Klahadore", "Mornin"]
+  },
+  {
+    "chapter_num" : "24",
+    "volume_num" : "3",
+    "title_eng" : "Things That Can't Be Faked",
+    "title_jap" : "偽れぬもの",
+    "release_date" : "01/19/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Klahadore", "Merry"]
+  },
+  {
+    "chapter_num" : "25",
+    "volume_num" : "3",
+    "title_eng" : "800 Lies",
+    "title_jap" : "ウソ800",
+    "release_date" : "01/26/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Klahadore", "Yasopp", "Lucky Roux", "Jango"]
+  },
+  {
+    "chapter_num" : "26",
+    "volume_num" : "3",
+    "title_eng" : "Captain Kuro's Plan",
+    "title_jap" : "キャプテン･クロの一計",
+    "release_date" : "02/02/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Merry", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "27",
+    "volume_num" : "4",
+    "title_eng" : "Plan",
+    "title_jap" : "筋",
+    "release_date" : "02/09/1998",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Merry"]
+  },
+  {
+    "chapter_num" : "28",
+    "volume_num" : "4",
+    "title_eng" : "Crescent Moon",
+    "title_jap" : "三日月",
+    "release_date" : "02/16/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Kaya", "Merry", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "29",
+    "volume_num" : "4",
+    "title_eng" : "Hill Road",
+    "title_jap" : "坂道",
+    "release_date" : "02/23/1998",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Jango"]
+  },
+  {
+    "chapter_num" : "30",
+    "volume_num" : "4",
+    "title_eng" : "Great!!!",
+    "title_jap" : "GREAT!!!",
+    "release_date" : "03/02/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tamanegi", "Merry", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "31",
+    "volume_num" : "4",
+    "title_eng" : "Truth",
+    "title_jap" : "真実",
+    "release_date" : "03/09/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Merry", "Kuro", "Jango", "Buchi", "Sham"]
+  },
+  {
+    "chapter_num" : "32",
+    "volume_num" : "4",
+    "title_eng" : "Disaster",
+    "title_jap" : "大凶",
+    "release_date" : "03/16/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Kuro", "Jango", "Buchi", "Sham"]
+  },
+  {
+    "chapter_num" : "33",
+    "volume_num" : "4",
+    "title_eng" : "The Silent Man",
+    "title_jap" : "音無き男",
+    "release_date" : "03/23/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Kuro", "Jango", "Buchi", "Sham"]
+  },
+  {
+    "chapter_num" : "34",
+    "volume_num" : "4",
+    "title_eng" : "Klahadore the Butler",
+    "title_jap" : "執事クラハドール",
+    "release_date" : "03/30/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Kaya", "Kuro", "Jango", "Buchi"]
+  },
+  {
+    "chapter_num" : "35",
+    "volume_num" : "4",
+    "title_eng" : "Neo Hill Road",
+    "title_jap" : "ネオ坂道",
+    "release_date" : "04/06/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Kuro", "Jango", "Buchi"]
+  },
+  {
+    "chapter_num" : "36",
+    "volume_num" : "5",
+    "title_eng" : "Follow Them!!",
+    "title_jap" : "追え!!",
+    "release_date" : "04/13/1998",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Kuro", "Jango", "Buchi"]
+  },
+  {
+    "chapter_num" : "37",
+    "volume_num" : "5",
+    "title_eng" : "The Pirate \\\"Kuro of a Hundred Plans\\\"",
+    "title_jap" : "海賊\\\"百計のクロ\\\"",
+    "release_date" : "04/20/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Kuro", "Jango", "Buchi", "Sham", "Nugire Yainu", "Morgan"]
+  },
+  {
+    "chapter_num" : "38",
+    "volume_num" : "5",
+    "title_eng" : "Pirate Crew",
+    "title_jap" : "海賊団",
+    "release_date" : "04/27/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "39",
+    "volume_num" : "5",
+    "title_eng" : "For Whom the Bell Tolls",
+    "title_jap" : "誰が為に鐘は鳴る",
+    "release_date" : "05/11/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "40",
+    "volume_num" : "5",
+    "title_eng" : "The Usopp Pirates",
+    "title_jap" : "ウソップ海賊団",
+    "release_date" : "05/18/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Merry", "Kuro", "Jango"]
+  },
+  {
+    "chapter_num" : "41",
+    "volume_num" : "5",
+    "title_eng" : "To the Sea",
+    "title_jap" : "海へ",
+    "release_date" : "05/25/1998",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Piiman", "Ninjin", "Tamanegi", "Kaya", "Merry", "Banchina"]
+  },
+  {
+    "chapter_num" : "42",
+    "volume_num" : "5",
+    "title_eng" : "Yosaku and Johnny",
+    "title_jap" : "ヨサクとジョニー",
+    "release_date" : "06/01/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Yosaku", "Johnny"]
+  },
+  {
+    "chapter_num" : "43",
+    "volume_num" : "5",
+    "title_eng" : "Introducing Sanji",
+    "title_jap" : "サンジ登場",
+    "release_date" : "06/08/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zeff", "Sanji", "Moodie", "Motzel", "Arlong", "Fullbody", "Yosaku", "Johnny", "Batchee"]
+  },
+  {
+    "chapter_num" : "44",
+    "volume_num" : "5",
+    "title_eng" : "Three Cooks",
+    "title_jap" : "三人のコック",
+    "release_date" : "06/15/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Fullbody", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "45",
+    "volume_num" : "6",
+    "title_eng" : "Before the Storm",
+    "title_jap" : "嵐前",
+    "release_date" : "06/22/1998",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "46",
+    "volume_num" : "6",
+    "title_eng" : "An Uninvited Guest",
+    "title_jap" : "招かれざる客",
+    "release_date" : "06/29/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zeff", "Sanji", "Patty", "Carne", "Roxanne", "Yosaku", "Johnny", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "47",
+    "volume_num" : "6",
+    "title_eng" : "Pirate Fleet Admiral Don Krieg",
+    "title_jap" : "海賊艦隊提督\\\"首領･クリーク\\\"",
+    "release_date" : "07/06/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "48",
+    "volume_num" : "6",
+    "title_eng" : "Leave That Path Alone",
+    "title_jap" : "その航路、やめときな",
+    "release_date" : "07/13/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin", "Dracule Mihawk"]
+  },
+  {
+    "chapter_num" : "49",
+    "volume_num" : "6",
+    "title_eng" : "The Storm",
+    "title_jap" : "嵐",
+    "release_date" : "07/18/1998",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zeff", "Sanji", "Patty", "Krieg", "Gin", "Yosaku", "Johnny", "Dracule Mihawk"]
+  },
+  {
+    "chapter_num" : "50",
+    "volume_num" : "6",
+    "title_eng" : "To Each His Own Way",
+    "title_jap" : "己々が路",
+    "release_date" : "07/27/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Yosaku", "Johnny", "Dracule Mihawk", "Bell-mère"]
+  },
+  {
+    "chapter_num" : "51",
+    "volume_num" : "6",
+    "title_eng" : "Roronoa Zoro Falls Into the Sea",
+    "title_jap" : "ロロノア・ゾロ海に散る",
+    "release_date" : "08/03/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Zeff", "Sanji", "Patty", "Krieg", "Yosaku", "Johnny", "Dracule Mihawk", "Kuina"]
+  },
+  {
+    "chapter_num" : "52",
+    "volume_num" : "6",
+    "title_eng" : "The Oath",
+    "title_jap" : "誓い",
+    "release_date" : "08/10/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Zeff", "Sanji", "Patty", "Krieg", "Yosaku", "Johnny", "Dracule Mihawk"]
+  },
+  {
+    "chapter_num" : "53",
+    "volume_num" : "6",
+    "title_eng" : "Sabagashira No. 1",
+    "title_jap" : "サバガシラ1号",
+    "release_date" : "08/24/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg"]
+  },
+  {
+    "chapter_num" : "54",
+    "volume_num" : "7",
+    "title_eng" : "Mr. Pearl",
+    "title_jap" : "パールさん",
+    "release_date" : "08/31/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Pearl"]
+  },
+  {
+    "chapter_num" : "55",
+    "volume_num" : "7",
+    "title_eng" : "Jungle Blood",
+    "title_jap" : "JUNGLE BLOOD",
+    "release_date" : "09/07/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Krieg", "Gin", "Pearl", "Ideaman"]
+  },
+  {
+    "chapter_num" : "56",
+    "volume_num" : "7",
+    "title_eng" : "No Way",
+    "title_jap" : "やなこった",
+    "release_date" : "09/14/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin", "Pearl"]
+  },
+  {
+    "chapter_num" : "57",
+    "volume_num" : "7",
+    "title_eng" : "Because of Dreams",
+    "title_jap" : "夢在るがゆえ",
+    "release_date" : "09/21/1998",
+    "pages" : "19",
+    "characters" : ["Zeff", "Sanji"]
+  },
+  {
+    "chapter_num" : "58",
+    "volume_num" : "7",
+    "title_eng" : "Old Fart",
+    "title_jap" : "クソジジイ",
+    "release_date" : "09/28/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Gin", "Pearl"]
+  },
+  {
+    "chapter_num" : "59",
+    "volume_num" : "7",
+    "title_eng" : "Obligation",
+    "title_jap" : "恩",
+    "release_date" : "10/05/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin", "Pearl"]
+  },
+  {
+    "chapter_num" : "60",
+    "volume_num" : "7",
+    "title_eng" : "Propriety",
+    "title_jap" : "ケジメ",
+    "release_date" : "10/12/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin", "Hustle"]
+  },
+  {
+    "chapter_num" : "61",
+    "volume_num" : "7",
+    "title_eng" : "Demon",
+    "title_jap" : "鬼",
+    "release_date" : "10/19/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "62",
+    "volume_num" : "7",
+    "title_eng" : "M-H-5",
+    "title_jap" : "M･H･5",
+    "release_date" : "10/26/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "63",
+    "volume_num" : "8",
+    "title_eng" : "I Ain't Gonna Die",
+    "title_jap" : "死なねェよ",
+    "release_date" : "11/02/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "64",
+    "volume_num" : "8",
+    "title_eng" : "Giant Battle Spear",
+    "title_jap" : "大戦槍",
+    "release_date" : "11/09/1998",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin", "Kagikko"]
+  },
+  {
+    "chapter_num" : "65",
+    "volume_num" : "8",
+    "title_eng" : "Prepare",
+    "title_jap" : "覚悟",
+    "release_date" : "11/16/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Krieg"]
+  },
+  {
+    "chapter_num" : "66",
+    "volume_num" : "8",
+    "title_eng" : "The Spear Is Stifled",
+    "title_jap" : "噛み殺した槍",
+    "release_date" : "11/21/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "67",
+    "volume_num" : "8",
+    "title_eng" : "Soup",
+    "title_jap" : "SOUP",
+    "release_date" : "11/30/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Zeff", "Sanji", "Patty", "Carne", "Krieg", "Gin"]
+  },
+  {
+    "chapter_num" : "68",
+    "volume_num" : "8",
+    "title_eng" : "The Fourth Person",
+    "title_jap" : "4人目",
+    "release_date" : "12/07/1998",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Zeff", "Sanji", "Patty", "Carne", "Yosaku", "Panda Shark"]
+  },
+  {
+    "chapter_num" : "69",
+    "volume_num" : "8",
+    "title_eng" : "Arlong Park",
+    "title_jap" : "アーロンパーク",
+    "release_date" : "12/19/1998",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Yosaku", "Johnny", "Dracule Mihawk", "Nezumi"]
+  },
+  {
+    "chapter_num" : "70",
+    "volume_num" : "8",
+    "title_eng" : "The Manly Usopp's Great Adventure",
+    "title_jap" : "男ウソップ大冒険",
+    "release_date" : "01/04/1999",
+    "pages" : "21",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Arlong", "Hatchan", "Johnny", "Chabo", "Nojiko"]
+  },
+  {
+    "chapter_num" : "71",
+    "volume_num" : "8",
+    "title_eng" : "Masters Above All",
+    "title_jap" : "万物の霊長",
+    "release_date" : "01/11/1999",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Arlong", "Chew", "Kuroobi", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "72",
+    "volume_num" : "9",
+    "title_eng" : "Appropriate",
+    "title_jap" : "分相応",
+    "release_date" : "01/18/1999",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Arlong", "Chew", "Kuroobi", "Kaneshiro", "Pisaro", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "73",
+    "volume_num" : "9",
+    "title_eng" : "The Monster From the \\\"Grand Line\\\"",
+    "title_jap" : "\\\"偉大なる航路\\\"から来た怪物",
+    "release_date" : "01/25/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Momoo", "Yosaku"]
+  },
+  {
+    "chapter_num" : "74",
+    "volume_num" : "9",
+    "title_eng" : "Business",
+    "title_jap" : "仕事",
+    "release_date" : "02/01/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Pisaro", "Momoo", "Yosaku", "Johnny"]
+  },
+  {
+    "chapter_num" : "75",
+    "volume_num" : "9",
+    "title_eng" : "Sea Charts and Fish-Man",
+    "title_jap" : "海図と魚人",
+    "release_date" : "02/08/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Take", "Shioyaki", "Yosaku", "Johnny", "Nojiko", "Genzo", "Chabo", "Pudding Pudding"]
+  },
+  {
+    "chapter_num" : "76",
+    "volume_num" : "9",
+    "title_eng" : "Gonna Sleep",
+    "title_jap" : "ねる",
+    "release_date" : "02/15/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nezumi"]
+  },
+  {
+    "chapter_num" : "77",
+    "volume_num" : "9",
+    "title_eng" : "One Step of the Dream",
+    "title_jap" : "夢の一歩",
+    "release_date" : "02/22/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Nojiko", "Genzo", "Bell-mère", "Nako"]
+  },
+  {
+    "chapter_num" : "78",
+    "volume_num" : "9",
+    "title_eng" : "Bell-mère-san",
+    "title_jap" : "ベルメールさん",
+    "release_date" : "03/01/1999",
+    "pages" : "19",
+    "characters" : [ "Nami", "Arlong", "Hatchan", "Chew", "Kuroobi", "Kaneshiro", "Pisaro", "Nojiko", "Genzo", "Bell-mère", "Nako"]
+  },
+  {
+    "chapter_num" : "79",
+    "volume_num" : "9",
+    "title_eng" : "Survive",
+    "title_jap" : "生きる",
+    "release_date" : "03/08/1999",
+    "pages" : "19",
+    "characters" : ["Nami", "Arlong", "Hatchan", "Chew", "Kuroobi", "Nojiko", "Genzo", "Bell-mère", "Nako", "Mummy Mee", "Daddy Dee"]
+  },
+  {
+    "chapter_num" : "80",
+    "volume_num" : "9",
+    "title_eng" : "A Crime is a Crime",
+    "title_jap" : "罪は罪",
+    "release_date" : "03/15/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Kuroobi", "Nezumi", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "81",
+    "volume_num" : "9",
+    "title_eng" : "Tears",
+    "title_jap" : "涙",
+    "release_date" : "03/20/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Chew", "Kuroobi", "Nezumi", "Yosaku", "Johnny", "Nojiko", "Genzo", "Bell-mère", "Nako"]
+  },
+  {
+    "chapter_num" : "82",
+    "volume_num" : "10",
+    "title_eng" : "OK, Let's STAND UP!",
+    "title_jap" : "OK, Let's STAND UP!",
+    "release_date" : "03/29/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Kaneshiro", "Shioyaki", "Momoo", "Nojiko", "Genzo", "Nako", "Yosaku", "Johnny"]
+  },
+  {
+    "chapter_num" : "83",
+    "volume_num" : "10",
+    "title_eng" : "Luffy in Black",
+    "title_jap" : "ルフィ IN BLACK",
+    "release_date" : "04/05/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Momoo", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "84",
+    "volume_num" : "10",
+    "title_eng" : "Zombie",
+    "title_jap" : "ゾンビ",
+    "release_date" : "04/12/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "85",
+    "volume_num" : "10",
+    "title_eng" : "Santoryu vs. Rokutoryu",
+    "title_jap" : "三刀流対六刀流",
+    "release_date" : "04/19/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Sanji", "Arlong", "Hatchan", "Kuroobi", "Yosaku", "Johnny", "Dracule Mihawk", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "86",
+    "volume_num" : "10",
+    "title_eng" : "Chivalry vs. Fish-Man Karate",
+    "title_jap" : "騎士道VS魚人空手",
+    "release_date" : "04/26/1999",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Sanji", "Arlong", "Hatchan", "Kuroobi", "Yosaku", "Johnny", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "87",
+    "volume_num" : "10",
+    "title_eng" : "It's Over!!",
+    "title_jap" : "終わったんだ!!",
+    "release_date" : "05/10/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Kuroobi", "Yosaku", "Johnny", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "88",
+    "volume_num" : "10",
+    "title_eng" : "Die!!!",
+    "title_jap" : "死んで!!!",
+    "release_date" : "05/17/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Chew", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "89",
+    "volume_num" : "10",
+    "title_eng" : "Switch",
+    "title_jap" : "交替",
+    "release_date" : "05/24/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Hatchan", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "90",
+    "volume_num" : "10",
+    "title_eng" : "What Can You Do?",
+    "title_jap" : "何ができる",
+    "release_date" : "05/31/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako"]
+  },
+  {
+    "chapter_num" : "91",
+    "volume_num" : "11",
+    "title_eng" : "Darts",
+    "title_jap" : "DARTS",
+    "release_date" : "06/07/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Arlong", "Yosaku", "Johnny", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "92",
+    "volume_num" : "11",
+    "title_eng" : "Happiness",
+    "title_jap" : "幸せ",
+    "release_date" : "06/14/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Arlong", "Yosaku", "Johnny", "Nojiko", "Genzo", "Lord of the Coast"]
+  },
+  {
+    "chapter_num" : "93",
+    "volume_num" : "11",
+    "title_eng" : "Going Down",
+    "title_jap" : "下へまいります",
+    "release_date" : "06/21/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Arlong", "Yosaku", "Johnny", "Nojiko", "Genzo"]
+  },
+  {
+    "chapter_num" : "94",
+    "volume_num" : "11",
+    "title_eng" : "The Second Person",
+    "title_jap" : "2人目",
+    "release_date" : "06/28/1999",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Arlong", "Yosaku", "Johnny", "Nojiko", "Genzo", "Nako", "Nezumi"]
+  },
+  {
+    "chapter_num" : "95",
+    "volume_num" : "11",
+    "title_eng" : "Spin, Pinwheel, Spin",
+    "title_jap" : "まわれ風車",
+    "release_date" : "07/05/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Yosaku", "Johnny", "Chabo", "Nojiko", "Genzo", "Bell-mère", "Nako"]
+  },
+  {
+    "chapter_num" : "96",
+    "volume_num" : "11",
+    "title_eng" : "Greatest Evil of the East",
+    "title_jap" : "東一番の悪",
+    "release_date" : "07/12/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Shanks", "Yasopp", "Benn Beckman", "Lucky Roux", "Dracule Mihawk", "Koze", "Packy", "Buggy", "Krieg", "Arlong", "John Giant", "Stainless", "Cancer", "Brannew", "Tashigi", "Makino", "Woop Slap"]
+  },
+  {
+    "chapter_num" : "97",
+    "volume_num" : "11",
+    "title_eng" : "Sandai Kitetsu",
+    "title_jap" : "三代鬼徹",
+    "release_date" : "07/19/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Alvida", "Smoker", "Tashigi", "Hanger", "Ipponmatsu"]
+  },
+  {
+    "chapter_num" : "98",
+    "volume_num" : "11",
+    "title_eng" : "Dark Clouds",
+    "title_jap" : "暗雲",
+    "release_date" : "07/26/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Buggy", "Alvida", "Cabaji", "Smoker", "Tashigi", "Mashikaku", "Sapi", "Yu"]
+  },
+  {
+    "chapter_num" : "99",
+    "volume_num" : "11",
+    "title_eng" : "Luffy Died",
+    "title_jap" : "ルフィが死んだ",
+    "release_date" : "08/02/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Buggy", "Alvida", "Mohji", "Richie", "Cabaji", "Gol D. Roger", "Smoker", "Tashigi"]
+  },
+  {
+    "chapter_num" : "100",
+    "volume_num" : "12",
+    "title_eng" : "The Legend Has Begun",
+    "title_jap" : "伝説は始まった",
+    "release_date" : "08/09/1999",
+    "pages" : "24",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Buggy", "Alvida", "Mohji", "Richie", "Cabaji", "Smoker", "Tashigi", "Dragon", "Kuina"]
+  },
+  {
+    "chapter_num" : "101",
+    "volume_num" : "12",
+    "title_eng" : "Reverse Mountain",
+    "title_jap" : "リヴァース･マウンテン",
+    "release_date" : "08/23/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Sea Kings"]
+  },
+  {
+    "chapter_num" : "102",
+    "volume_num" : "12",
+    "title_eng" : "And Now, the Grand Line",
+    "title_jap" : "さて、偉大なる航路",
+    "release_date" : "08/30/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Crocus", "Laboon"]
+  },
+  {
+    "chapter_num" : "103",
+    "volume_num" : "12",
+    "title_eng" : "Whale",
+    "title_jap" : "クジラ",
+    "release_date" : "09/06/1999",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Yorki", "Crocus", "Mr. 9", "Miss Wednesday", "Laboon"]
+  },
+  {
+    "chapter_num" : "104",
+    "volume_num" : "12",
+    "title_eng" : "Cape Promise",
+    "title_jap" : "約束の岬",
+    "release_date" : "09/13/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Crocus", "Mr. 9", "Miss Wednesday", "Laboon"]
+  },
+  {
+    "chapter_num" : "105",
+    "volume_num" : "12",
+    "title_eng" : "Log Pose",
+    "title_jap" : "記録指針",
+    "release_date" : "09/20/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Crocus", "Mr. 9", "Miss Wednesday", "Mr. 13", "Miss Friday", "Laboon"]
+  },
+  {
+    "chapter_num" : "106",
+    "volume_num" : "12",
+    "title_eng" : "The Town of Celebration",
+    "title_jap" : "歓迎の町",
+    "release_date" : "09/27/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Igarappoi", "Miss Catherina", "Mr. Beans", "Mr. 9", "Miss Wednesday", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "107",
+    "volume_num" : "12",
+    "title_eng" : "Moonlight and Gravestones",
+    "title_jap" : "Gekkō to Bohyō",
+    "release_date" : "10/04/1999",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Mr. 8", "Miss Monday", "Mr. 9", "Miss Wednesday", "Mr. Shimizu", "Miss Catherina", "Mr. Beans"]
+  },
+  {
+    "chapter_num" : "108",
+    "volume_num" : "12",
+    "title_eng" : "100 Bounty Hunters",
+    "title_jap" : "100人の賞金稼ぎ",
+    "release_date" : "10/09/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Mr. 8", "Miss Monday", "Mr. 9", "Miss Wednesday", "Miss Catherina", "Mr. Beans"]
+  },
+  {
+    "chapter_num" : "109",
+    "volume_num" : "13",
+    "title_eng" : "Responsibility Problem",
+    "title_jap" : "責任問題",
+    "release_date" : "10/18/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Mr. 8", "Mr. 9", "Miss Wednesday", "Karoo"]
+  },
+  {
+    "chapter_num" : "110",
+    "volume_num" : "13",
+    "title_eng" : "The Night Will Not End",
+    "title_jap" : "夜は終わらない",
+    "release_date" : "10/25/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Nefertari Vivi", "Igaram", "Karoo", "Mr. 5", "Miss Valentine", "Mr. 9", "Miss Monday", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "111",
+    "volume_num" : "13",
+    "title_eng" : "Secret Criminal Syndicate",
+    "title_jap" : "秘密犯罪会社",
+    "release_date" : "11/01/1999",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Nefertari Vivi", "Igaram", "Karoo", "Mr. 5", "Miss Valentine", "Miss Monday"]
+  },
+  {
+    "chapter_num" : "112",
+    "volume_num" : "13",
+    "title_eng" : "Luffy vs. Zoro",
+    "title_jap" : "ルフィVSゾロ",
+    "release_date" : "11/08/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nefertari Vivi", "Karoo", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "113",
+    "volume_num" : "13",
+    "title_eng" : "It's Okay!!!",
+    "title_jap" : "大丈夫!!!",
+    "release_date" : "11/15/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Nefertari Vivi", "Igaram", "Karoo", "Crocodile", "Mr. 5", "Miss Valentine", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "114",
+    "volume_num" : "13",
+    "title_eng" : "Route",
+    "title_jap" : "進路",
+    "release_date" : "11/22/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Nefertari Vivi", "Karoo", "Miss All Sunday", "Banchi"]
+  },
+  {
+    "chapter_num" : "115",
+    "volume_num" : "13",
+    "title_eng" : "Adventure in Little Garden",
+    "title_jap" : "冒険のリトルガーデン",
+    "release_date" : "12/06/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Brogy", "Bronte Zaurus", "Nefertari Vivi", "Karoo"]
+  },
+  {
+    "chapter_num" : "116",
+    "volume_num" : "13",
+    "title_eng" : "Huge",
+    "title_jap" : "でっけェ",
+    "release_date" : "12/13/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Dorry", "Brogy", "Bronte Zaurus", "Nefertari Vivi", "Karoo"]
+  },
+  {
+    "chapter_num" : "117",
+    "volume_num" : "13",
+    "title_eng" : "Dorry and Brogy",
+    "title_jap" : "ドリーとブロギー",
+    "release_date" : "12/20/1999",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Dorry", "Brogy", "Nefertari Vivi", "Karoo", "Samurai Batts", "Mr. 3", "Miss Goldenweek"]
+  },
+  {
+    "chapter_num" : "118",
+    "volume_num" : "14",
+    "title_eng" : "Someone's Here",
+    "title_jap" : "誰かいる",
+    "release_date" : "01/03/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Dorry", "Brogy", "Nefertari Vivi", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "119",
+    "volume_num" : "14",
+    "title_eng" : "Makeshift",
+    "title_jap" : "姑息",
+    "release_date" : "01/17/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Dorry", "Brogy", "Nefertari Vivi", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "120",
+    "volume_num" : "14",
+    "title_eng" : "The Red Ogre Cried",
+    "title_jap" : "赤鬼が泣いた",
+    "release_date" : "01/24/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Dorry", "Brogy", "Nefertari Vivi", "Karoo", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "121",
+    "volume_num" : "14",
+    "title_eng" : "I Knew",
+    "title_jap" : "わかっていた",
+    "release_date" : "01/31/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Brogy", "Nefertari Vivi", "Karoo", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "122",
+    "volume_num" : "14",
+    "title_eng" : "A Corpse Won't Help",
+    "title_jap" : "死人は役に立たぬ",
+    "release_date" : "02/07/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Brogy", "Nefertari Vivi", "Karoo", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "123",
+    "volume_num" : "14",
+    "title_eng" : "Luffy vs. Mr. 3",
+    "title_jap" : "ルフィ VS Mr. 3",
+    "release_date" : "02/14/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Brogy", "Nefertari Vivi", "Karoo", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "124",
+    "volume_num" : "14",
+    "title_eng" : "The Tea is so Damn Good",
+    "title_jap" : "お茶がうめェ",
+    "release_date" : "02/21/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Nefertari Vivi", "Karoo", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "125",
+    "volume_num" : "14",
+    "title_eng" : "Candle Champion",
+    "title_jap" : "キャンドルチャンピオン",
+    "release_date" : "02/28/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Nefertari Vivi", "Karoo", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "126",
+    "volume_num" : "14",
+    "title_eng" : "Instinct",
+    "title_jap" : "本能",
+    "release_date" : "03/06/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Nefertari Vivi", "Karoo", "Crocodile", "Mr. 3", "Miss Goldenweek", "Mr. 5", "Miss Valentine"]
+  },
+  {
+    "chapter_num" : "127",
+    "volume_num" : "15",
+    "title_eng" : "Den Den Mushi",
+    "title_jap" : "電伝虫",
+    "release_date" : "03/13/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Dorry", "Brogy", "Nefertari Vivi", "Karoo", "Smoker", "Crocodile", "Miss All Sunday", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "128",
+    "volume_num" : "15",
+    "title_eng" : "Pride (Pirate Flag)",
+    "title_jap" : "海賊旗",
+    "release_date" : "03/18/2000",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Dorry", "Brogy", "Nefertari Vivi", "Karoo", "Smoker", "Tashigi", "Mr. 11"]
+  },
+  {
+    "chapter_num" : "129",
+    "volume_num" : "15",
+    "title_eng" : "Straight Ahead!!!",
+    "title_jap" : "まっすぐ!!!",
+    "release_date" : "03/27/2000",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Dorry", "Brogy", "Nefertari Vivi", "Igaram", "Karoo", "Yuki", "Mr. 2 Bon Kurei", "Akumai"]
+  },
+  {
+    "chapter_num" : "130",
+    "volume_num" : "15",
+    "title_eng" : "Maximum Speed",
+    "title_jap" : "最高速度",
+    "release_date" : "04/03/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Nefertari Vivi", "Karoo", "Crocodile"]
+  },
+  {
+    "chapter_num" : "131",
+    "volume_num" : "15",
+    "title_eng" : "Tin Plate Wapol",
+    "title_jap" : "ブリキのワポル",
+    "release_date" : "04/10/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Nefertari Vivi", "Karoo"]
+  },
+  {
+    "chapter_num" : "132",
+    "volume_num" : "15",
+    "title_eng" : "See?",
+    "title_jap" : "ね",
+    "release_date" : "04/17/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Chess", "Kuromarimo", "Nefertari Vivi", "Karoo", "Dalton", "Kureha"]
+  },
+  {
+    "chapter_num" : "133",
+    "volume_num" : "15",
+    "title_eng" : "Adventure in the Country Without a Name",
+    "title_jap" : "名もなき国の冒険",
+    "release_date" : "04/24/2000",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Blackbeard", "Van Augur", "Jesus Burgess", "Doc Q", "Laffitte", "Wapol", "Dalton", "Kureha", "Tony Tony Chopper", "Negikuma Maria", "Nefertari Vivi", "Karoo", "Hiking Bear"]
+  },
+  {
+    "chapter_num" : "134",
+    "volume_num" : "15",
+    "title_eng" : "Dr. Kureha",
+    "title_jap" : "Dr.くれは",
+    "release_date" : "05/08/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Dalton", "Kureha", "Tony Tony Chopper", "Negikuma Maria", "Tamachibi", "Nefertari Vivi", "Lapahn"]
+  },
+  {
+    "chapter_num" : "135",
+    "volume_num" : "15",
+    "title_eng" : "Lapahn",
+    "title_jap" : "ラパーン",
+    "release_date" : "05/15/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Dalton", "Tamachibi", "Nefertari Vivi", "Lapahn", "White Walkie"]
+  },
+  {
+    "chapter_num" : "136",
+    "volume_num" : "15",
+    "title_eng" : "A Man Called Dalton",
+    "title_jap" : "ドルトンという男",
+    "release_date" : "05/22/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Isshi-20", "Robson", "Dalton", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "137",
+    "volume_num" : "16",
+    "title_eng" : "Avalanche",
+    "title_jap" : "雪崩",
+    "release_date" : "05/29/2000",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "138",
+    "volume_num" : "16",
+    "title_eng" : "Summit",
+    "title_jap" : "頂上",
+    "release_date" : "06/05/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "139",
+    "volume_num" : "16",
+    "title_eng" : "Introducing Tony Tony Chopper",
+    "title_jap" : "トニートニー･チョッパー登場",
+    "release_date" : "06/12/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Kureha", "Tony Tony Chopper", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "140",
+    "volume_num" : "16",
+    "title_eng" : "Castle of Snow",
+    "title_jap" : "雪の住む城",
+    "release_date" : "06/19/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Kureha", "Hiriluk", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "141",
+    "volume_num" : "16",
+    "title_eng" : "Quack Doctor",
+    "title_jap" : "ヤブ医者",
+    "release_date" : "06/26/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Dalton", "Kureha", "Hiriluk", "Tony Tony Chopper", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "142",
+    "volume_num" : "16",
+    "title_eng" : "Skull and Sakura",
+    "title_jap" : "ドクロと桜",
+    "release_date" : "07/03/2000",
+    "pages" : "19",
+    "characters" : ["Wapol", "Chess", "Kuromarimo", "Dalton", "Hiriluk", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Thalassa Lucas", "Dragon"]
+  },
+  {
+    "chapter_num" : "143",
+    "volume_num" : "16",
+    "title_eng" : "Unskilled",
+    "title_jap" : "不器用",
+    "release_date" : "07/10/2000",
+    "pages" : "19",
+    "characters" : ["Tony Tony Chopper", "Hiriluk", "Kureha", "Wapol", "Dalton"]
+  },
+  {
+    "chapter_num" : "144",
+    "volume_num" : "16",
+    "title_eng" : "Snow Story",
+    "title_jap" : "雪物語",
+    "release_date" : "07/17/2000",
+    "pages" : "19",
+    "characters" : ["Tony Tony Chopper", "Hiriluk", "Kureha", "Wapol", "Dalton"]
+  },
+  {
+    "chapter_num" : "145",
+    "volume_num" : "16",
+    "title_eng" : "Inherited Will",
+    "title_jap" : "受け継がれる意志",
+    "release_date" : "07/24/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Wapol", "Chess", "Kuromarimo", "Dalton", "Kureha", "Hiriluk", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "146",
+    "volume_num" : "17",
+    "title_eng" : "The Battle of National Defense",
+    "title_jap" : "国防戦",
+    "release_date" : "07/31/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Sanji", "Wapol", "Chess", "Kuromarimo", "Robson", "Kureha", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "147",
+    "volume_num" : "17",
+    "title_eng" : "Downright Lie",
+    "title_jap" : "ウソッパチ",
+    "release_date" : "08/07/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Sanji", "Wapol", "Chess", "Kuromarimo", "Chessmarimo", "Dalton", "Kureha", "Tony Tony Chopper", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "148",
+    "volume_num" : "17",
+    "title_eng" : "You Can't Destroy It",
+    "title_jap" : "折れない",
+    "release_date" : "08/21/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Sanji", "Wapol", "Chessmarimo", "Dalton", "Kureha", "Tony Tony Chopper", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "149",
+    "volume_num" : "17",
+    "title_eng" : "RUMBLE!!",
+    "title_jap" : "RUMBLE!!",
+    "release_date" : "08/28/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Sanji", "Wapol", "Chessmarimo", "Kureha", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "150",
+    "volume_num" : "17",
+    "title_eng" : "Royal Drum Crown 7-Shot Bliking Cannon",
+    "title_jap" : "ロイヤルドラムクラウン7連散弾ブリキング大砲",
+    "release_date" : "09/04/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Sanji", "Wapol", "Chessmarimo", "Kureha", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "151",
+    "volume_num" : "17",
+    "title_eng" : "Drum Skies",
+    "title_jap" : "ドラムの空",
+    "release_date" : "09/11/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Usopp", "Wapol", "Chess", "Kuromarimo", "Dalton", "Kureha", "Hiriluk", "Tony Tony Chopper", "Nefertari Vivi", "Igaram"]
+  },
+  {
+    "chapter_num" : "152",
+    "volume_num" : "17",
+    "title_eng" : "Full Moon",
+    "title_jap" : "満月",
+    "release_date" : "09/18/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Dalton", "Kureha", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "153",
+    "volume_num" : "17",
+    "title_eng" : "Hiriluk's Sakura",
+    "title_jap" : "ヒルルクの桜",
+    "release_date" : "09/25/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Dalton", "Kureha", "Hiriluk", "Nefertari Vivi"]
+  },
+  {
+    "chapter_num" : "154",
+    "volume_num" : "17",
+    "title_eng" : "To Alabasta",
+    "title_jap" : "アラバスタへ",
+    "release_date" : "10/02/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Dalton", "Kureha", "Nefertari Vivi", "Karoo", "Crocodile", "Miss All Sunday", "Mr. 2 Bon Kurei", "Akumai", "Ace"]
+  },
+  {
+    "chapter_num" : "155",
+    "volume_num" : "17",
+    "title_eng" : "Pirate Sir Crocodile",
+    "title_jap" : "\\\"海賊\\\"サー･クロコダイル",
+    "release_date" : "10/07/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Puppu", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Pell", "Karoo", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 3", "Miss Goldenweek", "Mr. 4", "Miss Merry Christmas", "Mr. 5", "Miss Valentine", "Mr. 6", "Miss Mother's Day", "Mr. 7", "Miss Father's Day", "Mr. 8", "Miss Monday", "Mr. 9", "Mr. 10", "Miss Tuesday", "Mr. 11", "Miss Thursday", "Mr. 12", "Miss Saturday", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "156",
+    "volume_num" : "18",
+    "title_eng" : "Okama Weather",
+    "title_jap" : "オカマ日和",
+    "release_date" : "10/16/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Karoo", "Mr. 2 Bon Kurei", "Akumai"]
+  },
+  {
+    "chapter_num" : "157",
+    "volume_num" : "18",
+    "title_eng" : "Introducing Ace",
+    "title_jap" : "エース登場",
+    "release_date" : "10/23/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Portgas D. Ace", "Smoker", "Tashigi", "Nefertari Vivi", "Karoo", "Yoshimoto", "Sea Cat"]
+  },
+  {
+    "chapter_num" : "158",
+    "volume_num" : "18",
+    "title_eng" : "Arriving in Arabasta",
+    "title_jap" : "上陸のアラバスタ",
+    "release_date" : "10/30/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Portgas D. Ace", "Smoker", "Tashigi", "Nefertari Vivi", "Karoo", "Yoshimoto"]
+  },
+  {
+    "chapter_num" : "159",
+    "volume_num" : "18",
+    "title_eng" : "Come On",
+    "title_jap" : "来いよ",
+    "release_date" : "11/06/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Whitebeard", "Portgas D. Ace", "Smoker", "Tashigi", "Nefertari Vivi", "Karoo", "Mr. 11", "Mr. Mellow"]
+  },
+  {
+    "chapter_num" : "160",
+    "volume_num" : "18",
+    "title_eng" : "8 o'clock at Spiders Cafe",
+    "title_jap" : "スパイダーズカフェに８時",
+    "release_date" : "11/13/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 3", "Mr. 4", "Miss Merry Christmas", "Akumai", "Bananawani"]
+  },
+  {
+    "chapter_num" : "161",
+    "volume_num" : "18",
+    "title_eng" : "The Green Town, Erumalu",
+    "title_jap" : "緑の町エルマル",
+    "release_date" : "11/20/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 4", "Miss Merry Christmas", "Mr. Mellow", "Erimaki Runners", "Kung-Fu Dugongs"]
+  },
+  {
+    "chapter_num" : "162",
+    "volume_num" : "18",
+    "title_eng" : "Adventure in the Kingdom of Sand",
+    "title_jap" : "砂の国の冒険",
+    "release_date" : "11/27/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Warusagi Birds", "Sandora Lizard", "Matsuge"]
+  },
+  {
+    "chapter_num" : "163",
+    "volume_num" : "18",
+    "title_eng" : "Yuba, the Rebel Town",
+    "title_jap" : "反乱軍の町ユバ",
+    "release_date" : "12/04/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Koza", "Toto", "Aswa", "Karoo", "Matsuge"]
+  },
+  {
+    "chapter_num" : "164",
+    "volume_num" : "18",
+    "title_eng" : "I Love This Country",
+    "title_jap" : "国が好き",
+    "release_date" : "12/11/2000",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Chaka", "Pell", "Koza", "Okame", "Kebi", "Natto", "Toto", "Agotogi", "Karoo", "Matsuge"]
+  },
+  {
+    "chapter_num" : "165",
+    "volume_num" : "18",
+    "title_eng" : "Plan: Utopia",
+    "title_jap" : "作戦名ユートピア",
+    "release_date" : "12/18/2000",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Toto", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 4", "Miss Merry Christmas", "Matsuge"]
+  },
+  {
+    "chapter_num" : "166",
+    "volume_num" : "18",
+    "title_eng" : "Luffy vs. Vivi",
+    "title_jap" : "ルフィ VS ビビ",
+    "release_date" : "01/04/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 3", "Mr. 4", "Miss Merry Christmas", "Matsuge"]
+  },
+  {
+    "chapter_num" : "167",
+    "volume_num" : "19",
+    "title_eng" : "Battlefront",
+    "title_jap" : "戦線",
+    "release_date" : "01/15/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Pell", "Koza", "Erik", "Farafra", "Okame", "Kebi", "Natto", "Toto", "Kappa", "Crocodile", "Karoo", "Matsuge"]
+  },
+  {
+    "chapter_num" : "168",
+    "volume_num" : "19",
+    "title_eng" : "Rainbase, Town of Dreams",
+    "title_jap" : "夢の町\\\"レインベース\\\"",
+    "release_date" : "01/22/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Tashigi", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Matsuge"]
+  },
+  {
+    "chapter_num" : "169",
+    "volume_num" : "19",
+    "title_eng" : "Strongest Warrior in the Kingdom",
+    "title_jap" : "王国最強の戦士",
+    "release_date" : "01/29/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Smoker", "Nefertari Vivi", "Pell", "Ultraking", "Koala Mercenaries", "Crocodile", "Miss All Sunday"]
+  },
+  {
+    "chapter_num" : "170",
+    "volume_num" : "19",
+    "title_eng" : "It Begins",
+    "title_jap" : "始まる",
+    "release_date" : "02/05/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Smoker", "Nefertari Vivi", "Pell", "Crocodile", "Miss All Sunday"]
+  },
+  {
+    "chapter_num" : "171",
+    "volume_num" : "19",
+    "title_eng" : "Koza, Leader of the Rebellion",
+    "title_jap" : "反乱軍統率者コーザ",
+    "release_date" : "02/10/2001",
+    "pages" : "19",
+    "characters" : ["Nefertari Cobra", "Chaka", "Koza", "Erik", "Kebi", "Toto", "Kappa", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Akumai"]
+  },
+  {
+    "chapter_num" : "172",
+    "volume_num" : "19",
+    "title_eng" : "Rebellion",
+    "title_jap" : "反乱",
+    "release_date" : "02/26/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Smoker", "Nefertari Vivi", "Chaka", "Koza", "Erik", "Farafra", "Kebi", "Kappa", "Crocodile", "Miss All Sunday", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Akumai", "Banchi"]
+  },
+  {
+    "chapter_num" : "173",
+    "volume_num" : "19",
+    "title_eng" : "Bananawani",
+    "title_jap" : "バナナワニ",
+    "release_date" : "03/05/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Smoker", "Nefertari Vivi", "Toto", "Crocodile", "Miss All Sunday"]
+  },
+  {
+    "chapter_num" : "174",
+    "volume_num" : "19",
+    "title_eng" : "Mr. Prince",
+    "title_jap" : "Mr. プリンス",
+    "release_date" : "03/12/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Smoker", "Nefertari Vivi", "Ultraking", "Crocodile", "Miss All Sunday", "Mr. 3"]
+  },
+  {
+    "chapter_num" : "175",
+    "volume_num" : "19",
+    "title_eng" : "Liberation",
+    "title_jap" : "解放",
+    "release_date" : "03/19/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Mr. 3"]
+  },
+  {
+    "chapter_num" : "176",
+    "volume_num" : "19",
+    "title_eng" : "Rush!!",
+    "title_jap" : "Rush!!",
+    "release_date" : "03/26/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Nefertari Vivi", "Crocodile", "Miss All Sunday", "Mr. 3", "Matsuge", "Hasami"]
+  },
+  {
+    "chapter_num" : "177",
+    "volume_num" : "20",
+    "title_eng" : "30,000,000 vs. 81,000,000",
+    "title_jap" : "3000万 vs 8100万",
+    "release_date" : "04/02/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Crocodile", "Nico Robin", "Matsuge", "Hasami"]
+  },
+  {
+    "chapter_num" : "178",
+    "volume_num" : "20",
+    "title_eng" : "Level G.L.",
+    "title_jap" : "Level G.L.",
+    "release_date" : "04/09/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Tashigi", "Nefertari Vivi", "Toto", "Crocodile", "Matsuge", "Hasami"]
+  },
+  {
+    "chapter_num" : "179",
+    "volume_num" : "20",
+    "title_eng" : "The End Will Be in Alubarna",
+    "title_jap" : "決戦はアルバーナ",
+    "release_date" : "04/16/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Koza", "Toto", "Crocodile", "Mr. 4", "Miss Merry Christmas", "Karoo", "Matsuge", "Hasami"]
+  },
+  {
+    "chapter_num" : "180",
+    "volume_num" : "20",
+    "title_eng" : "Arabasta Animal Kingdom",
+    "title_jap" : "アラバスタ動物ランド",
+    "release_date" : "04/23/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Pell", "Toto", "Crocodile", "Nico Robin", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 4", "Miss Merry Christmas", "Karoo", "Matsuge", "Stomp", "Ivan X", "Cowboy", "Bourbon Jr.", "Kentauros", "Hikoichi", "Hasami", "Sandora Catfish"]
+  },
+  {
+    "chapter_num" : "181",
+    "volume_num" : "20",
+    "title_eng" : "Super Spot-Billed Duck Quiz",
+    "title_jap" : "超カルガモクイズ",
+    "release_date" : "05/07/2001",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Chaka", "Koza", "Erik", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 4", "Miss Merry Christmas", "Karoo", "Matsuge", "Stomp", "Ivan X", "Cowboy", "Bourbon Jr.", "Kentauros", "Hikoichi"]
+  },
+  {
+    "chapter_num" : "182",
+    "volume_num" : "20",
+    "title_eng" : "Roar",
+    "title_jap" : "怒号",
+    "release_date" : "05/14/2001",
+    "pages" : "19",
+    "characters" : ["Usopp", "Sanji", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Koza", "Erik", "Kebi", "Crocodile", "Mr. 2 Bon Kurei", "Karoo", "Matsuge"]
+  },
+  {
+    "chapter_num" : "183",
+    "volume_num" : "20",
+    "title_eng" : "Commander Karoo",
+    "title_jap" : "カルー隊長",
+    "release_date" : "05/21/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Vivi", "Mr. 2 Bon Kurei", "Mr. 4", "Karoo", "Ivan X", "Cowboy"]
+  },
+  {
+    "chapter_num" : "184",
+    "volume_num" : "20",
+    "title_eng" : "Molehill 4th St.",
+    "title_jap" : "モグラ塚４番街",
+    "release_date" : "05/28/2001",
+    "pages" : "19",
+    "characters" : ["Usopp", "Tony Tony Chopper", "Mr. 4", "Miss Merry Christmas", "Lassoo"]
+  },
+  {
+    "chapter_num" : "185",
+    "volume_num" : "20",
+    "title_eng" : "Wow, That's Nice",
+    "title_jap" : "へーそう",
+    "release_date" : "06/04/2001",
+    "pages" : "19",
+    "characters" : ["Usopp", "Tony Tony Chopper", "Mr. 4", "Miss Merry Christmas", "Lassoo"]
+  },
+  {
+    "chapter_num" : "186",
+    "volume_num" : "20",
+    "title_eng" : "4",
+    "title_jap" : "4",
+    "release_date" : "06/11/2001",
+    "pages" : "19",
+    "characters" : ["Usopp", "Tony Tony Chopper", "Mr. 4", "Miss Merry Christmas", "Lassoo"]
+  },
+  {
+    "chapter_num" : "187",
+    "volume_num" : "21",
+    "title_eng" : "Even Match",
+    "title_jap" : "互角",
+    "release_date" : "06/18/2001",
+    "pages" : "19",
+    "characters" : ["Sanji", "Nefertari Vivi", "Chaka", "Koza", "Kebi", "Mr. 2 Bon Kurei"]
+  },
+  {
+    "chapter_num" : "188",
+    "volume_num" : "21",
+    "title_eng" : "Okama Kenpo",
+    "title_jap" : "オカマ拳法",
+    "release_date" : "06/25/2001",
+    "pages" : "19",
+    "characters" : ["Sanji", "Nefertari Vivi", "Chaka", "Mr. 2 Bon Kurei"]
+  },
+  {
+    "chapter_num" : "189",
+    "volume_num" : "21",
+    "title_eng" : "2",
+    "title_jap" : "2",
+    "release_date" : "07/02/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Nefertari Vivi", "Chaka", "Crocodile", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Kentauros", "Hikoichi"]
+  },
+  {
+    "chapter_num" : "190",
+    "volume_num" : "21",
+    "title_eng" : "Clima-Tact",
+    "title_jap" : "天候棒",
+    "release_date" : "07/09/2001",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Mr. 1", "Miss Doublefinger"]
+  },
+  {
+    "chapter_num" : "191",
+    "volume_num" : "21",
+    "title_eng" : "The Woman Who Controls the Weather",
+    "title_jap" : "天候を操る女",
+    "release_date" : "07/16/2001",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Miss Doublefinger"]
+  },
+  {
+    "chapter_num" : "192",
+    "volume_num" : "21",
+    "title_eng" : "Whirlwind Warning",
+    "title_jap" : "旋風注意報",
+    "release_date" : "07/23/2001",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Crocodile", "Nico Robin", "Miss Doublefinger", "Matsuge"]
+  },
+  {
+    "chapter_num" : "193",
+    "volume_num" : "21",
+    "title_eng" : "Ideal Nation",
+    "title_jap" : "理想郷",
+    "release_date" : "07/30/2001",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Crocodile", "Nico Robin", "Mr. 1", "Miss Doublefinger"]
+  },
+  {
+    "chapter_num" : "194",
+    "volume_num" : "21",
+    "title_eng" : "Cut Through Steel",
+    "title_jap" : "鉄を斬る",
+    "release_date" : "08/06/2001",
+    "pages" : "18",
+    "characters" : ["Roronoa Zoro", "Mr. 1"]
+  },
+  {
+    "chapter_num" : "195",
+    "volume_num" : "21",
+    "title_eng" : "Mr. Bushido",
+    "title_jap" : "Mr. 武士道",
+    "release_date" : "08/20/2001",
+    "pages" : "21",
+    "characters" : ["Roronoa Zoro", "Koushirou", "Mr. 1"]
+  },
+  {
+    "chapter_num" : "196",
+    "volume_num" : "22",
+    "title_eng" : "1",
+    "title_jap" : "1",
+    "release_date" : "08/27/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Hyota", "Brahm", "Arrow", "Barrel", "Crocodile", "Nico Robin", "Mr. 1", "Miss Doublefinger", "Matsuge", "Stomp", "Ivan X", "Cowboy", "Bourbon Jr.", "Kentauros", "Hikoichi"]
+  },
+  {
+    "chapter_num" : "197",
+    "volume_num" : "22",
+    "title_eng" : "The Leaders",
+    "title_jap" : "統率者達",
+    "release_date" : "09/03/2001",
+    "pages" : "19",
+    "characters" : ["Nefertari Cobra", "Nefertari Vivi", "Chaka", "Koza", "Farafra", "Kebi", "Toto", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "198",
+    "volume_num" : "22",
+    "title_eng" : "4:15 p.m.",
+    "title_jap" : "午後四時十五分",
+    "release_date" : "09/10/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Chaka", "Pell", "Koza", "Hyota", "Brahm", "Arrow", "Barrel", "Erik", "Farafra", "Toto", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "199",
+    "volume_num" : "22",
+    "title_eng" : "Hope!!",
+    "title_jap" : "HOPE!!",
+    "release_date" : "09/17/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Pell", "Crocodile", "Nico Robin", "Matsuge"]
+  },
+  {
+    "chapter_num" : "200",
+    "volume_num" : "22",
+    "title_eng" : "Water Luffy",
+    "title_jap" : "水ルフィ",
+    "release_date" : "09/22/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Pell", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "201",
+    "volume_num" : "22",
+    "title_eng" : "Nico Robin",
+    "title_jap" : "ニコ ・ ロビン",
+    "release_date" : "10/01/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Tashigi", "Mashikaku", "Nefertari Cobra", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "202",
+    "volume_num" : "22",
+    "title_eng" : "The Royal Crypt",
+    "title_jap" : "王家の墓",
+    "release_date" : "10/06/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Pell", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "203",
+    "volume_num" : "22",
+    "title_eng" : "Crocish",
+    "title_jap" : "ワニっぽい",
+    "release_date" : "10/15/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Pell", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "204",
+    "volume_num" : "22",
+    "title_eng" : "RED",
+    "title_jap" : "RED",
+    "release_date" : "10/22/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Crocodile", "Nico Robin"]
+  },
+  {
+    "chapter_num" : "205",
+    "volume_num" : "22",
+    "title_eng" : "The Suna Suna Clan's Secret Base",
+    "title_jap" : "砂砂団秘密基地",
+    "release_date" : "10/29/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Pell", "Koza", "Crocodile", "Mr. 7", "Miss Father's Day"]
+  },
+  {
+    "chapter_num" : "206",
+    "volume_num" : "23",
+    "title_eng" : "Ignition",
+    "title_jap" : "点火",
+    "release_date" : "11/05/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Crocodile", "Nico Robin", "Mr. 7", "Miss Father's Day", "Mr. Love"]
+  },
+  {
+    "chapter_num" : "207",
+    "volume_num" : "23",
+    "title_eng" : "Nightmare",
+    "title_jap" : "悪夢",
+    "release_date" : "11/12/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Chaka", "Pell", "Koza", "Kebi", "Crocodile", "Nico Robin", "Mr. 7", "Miss Father's Day"]
+  },
+  {
+    "chapter_num" : "208",
+    "volume_num" : "23",
+    "title_eng" : "Guardian Spirits",
+    "title_jap" : "守護神",
+    "release_date" : "11/19/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Pell", "Crocodile", "Karoo"]
+  },
+  {
+    "chapter_num" : "209",
+    "volume_num" : "23",
+    "title_eng" : "I Will Surpass You",
+    "title_jap" : "超えて行く",
+    "release_date" : "11/26/2001",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Crocodile", "Nico Robin", "Mr. 13", "Miss Friday"]
+  },
+  {
+    "chapter_num" : "210",
+    "volume_num" : "23",
+    "title_eng" : "0",
+    "title_jap" : "0",
+    "release_date" : "12/03/2001",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Koza", "Kebi", "Toto", "Crocodile"]
+  },
+  {
+    "chapter_num" : "211",
+    "volume_num" : "23",
+    "title_eng" : "King",
+    "title_jap" : "王",
+    "release_date" : "12/10/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Tashigi", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Chaka", "Koza", "Erik", "Farafra", "Kebi", "Kappa", "Crocodile", "Mr. 1", "Miss Doublefinger", "Mr. 2 Bon Kurei", "Mr. 4", "Miss Merry Christmas", "Lassoo"]
+  },
+  {
+    "chapter_num" : "212",
+    "volume_num" : "23",
+    "title_eng" : "Some Justice",
+    "title_jap" : "いくつかの正義",
+    "release_date" : "12/17/2001",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Hina", "Tashigi", "Mashikaku", "Nefertari Vivi", "Igaram", "Koza", "Erik", "Farafra", "Kebi", "Toto", "Crocodile"]
+  },
+  {
+    "chapter_num" : "213",
+    "volume_num" : "23",
+    "title_eng" : "VIP",
+    "title_jap" : "VIP",
+    "release_date" : "12/28/2001",
+    "pages" : "23",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Chaka", "Terracotta", "Ho", "Karoo", "Matsuge"]
+  },
+    {
+    "chapter_num" : "214",
+    "volume_num" : "23",
+    "title_eng" : "Plan to Escape From the Kingdom of Sand",
+    "title_jap" : "砂の国脱出作戦",
+    "release_date" : "01/07/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Hina", "Shine", "Fullbody", "Jango", "Nefertari Vivi", "Igaram", "Mr. 2 Bon Kurei", "Karoo", "Stomp", "Ivan X", "Cowboy", "Bourbon Jr.", "Kentauros", "Hikoichi"]
+  },
+  {
+    "chapter_num" : "215",
+    "volume_num" : "23",
+    "title_eng" : "Last waltz",
+    "title_jap" : "Last waltz",
+    "release_date" : "01/21/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Hina", "Fullbody", "Jango", "Nefertari Cobra", "Nefertari Titi", "Nefertari Vivi", "Igaram", "Chaka", "Terracotta", "Maidy", "Mr. 2 Bon Kurei", "Akumai"]
+  },
+  {
+    "chapter_num" : "216",
+    "volume_num" : "23",
+    "title_eng" : "Vivi's Adventure",
+    "title_jap" : "ビビの冒険",
+    "release_date" : "01/28/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Makko", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Koza", "Toto", "Mr. 3", "Karoo"]
+  },
+  {
+    "chapter_num" : "217",
+    "volume_num" : "24",
+    "title_eng" : "Stowaway",
+    "title_jap" : "密航者",
+    "release_date" : "02/04/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Smoker", "Hina", "Tashigi", "Fullbody", "Jango", "Nefertari Cobra", "Nefertari Vivi", "Igaram", "Chaka", "Pell", "Koza", "Toto", "Potsun", "Nico Robin", "Karoo", "Matsuge", "Hasami"]
+  },
+  {
+    "chapter_num" : "218",
+    "volume_num" : "24",
+    "title_eng" : "Why the Log Pose is Spherical",
+    "title_jap" : "「記録指針」が丸い理由",
+    "release_date" : "02/18/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Nefertari Cobra", "Crocodile"]
+  },
+  {
+    "chapter_num" : "219",
+    "volume_num" : "24",
+    "title_eng" : "Salvage King Masira",
+    "title_jap" : "サルベージ王マシラ",
+    "release_date" : "02/25/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Masira"]
+  },
+  {
+    "chapter_num" : "220",
+    "volume_num" : "24",
+    "title_eng" : "Sea Floor Stroll",
+    "title_jap" : "海底散歩",
+    "release_date" : "03/04/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Masira"]
+  },
+  {
+    "chapter_num" : "221",
+    "volume_num" : "24",
+    "title_eng" : "Monsters",
+    "title_jap" : "怪物",
+    "release_date" : "03/11/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Masira"]
+  },
+  {
+    "chapter_num" : "222",
+    "volume_num" : "24",
+    "title_eng" : "Big Time Rookies",
+    "title_jap" : "大型ルーキー",
+    "release_date" : "03/18/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Roshio", "Bellamy", "Sarquiss", "Lily", "Van Augur", "Jesus Burgess"]
+  },
+    {
+    "chapter_num" : "223",
+    "volume_num" : "24",
+    "title_eng" : "I Promise Not to Fight Within This Town",
+    "title_jap" : "ワタクシはこの町では決してケンカしないと誓います",
+    "release_date" : "03/25/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Bellamy", "Sarquiss", "Lily", "Ross", "Eddy", "Hewitt", "Rivers", "Mani", "Muret", "Terry", "Spector", "Doc Q", "Stronger", "Jesus Burgess", "Marshall D. Teach"]
+  },
+  {
+    "chapter_num" : "224",
+    "volume_num" : "24",
+    "title_eng" : "Never Dream",
+    "title_jap" : "夢を見るな",
+    "release_date" : "04/01/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Okome", "Bellamy", "Sarquiss", "Lily", "Ross", "Eddy", "Rivers", "Mani", "Muret", "Terry"]
+  },
+  {
+    "chapter_num" : "225",
+    "volume_num" : "24",
+    "title_eng" : "People's Dreams",
+    "title_jap" : "人の夢",
+    "release_date" : "04/08/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Portgas D. Ace", "Shanks", "Bellamy", "Sarquiss", "Lily", "Ross", "Hewitt", "Rivers", "Mani", "Muret", "Terry", "Marshall D. Teach"]
+  },
+  {
+    "chapter_num" : "226",
+    "volume_num" : "24",
+    "title_eng" : "Shoujou King of the Ocean Floor Searches",
+    "title_jap" : "海底探索王ショウジョウ",
+    "release_date" : "04/15/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Shoujou", "Bellamy", "Sarquiss"]
+  },
+  {
+    "chapter_num" : "227",
+    "volume_num" : "25",
+    "title_eng" : "Noland the Liar",
+    "title_jap" : "うそつきノーランド",
+    "release_date" : "04/22/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Shoujou", "Masira", "Mont Blanc Cricket", "Bellamy", "Sarquiss", "Lily", "Ross", "Eddy", "Hewitt", "Rivers", "Mani", "Muret", "Mont Blanc Noland"]
+  },
+  {
+    "chapter_num" : "228",
+    "volume_num" : "25",
+    "title_eng" : "Last Boss of the Allied Saruyama Forces, Mont Blanc Cricket",
+    "title_jap" : "「猿山連合軍最終園長」モンブラン・クリケット",
+    "release_date" : "04/27/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Mont Blanc Cricket", "Masira", "Shoujou", "Mont Blanc Noland"]
+  },
+  {
+    "chapter_num" : "229",
+    "volume_num" : "25",
+    "title_eng" : "Let's Eat",
+    "title_jap" : "メシを食おう",
+    "release_date" : "05/13/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mont Blanc Cricket", "Masira", "Shoujou", "Bellamy", "Sarquiss", "Ross", "Eddy"]
+  },
+  {
+    "chapter_num" : "230",
+    "volume_num" : "25",
+    "title_eng" : "Find the South Bird!!",
+    "title_jap" : "サウスバードを追え!!",
+    "release_date" : "05/20/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mont Blanc Cricket", "Masira", "Shoujou", "Bellamy", "South Bird", "Insects"]
+  },
+  {
+    "chapter_num" : "231",
+    "volume_num" : "25",
+    "title_eng" : "Bellamy the Hyena",
+    "title_jap" : "ハイエナのベラミー",
+    "release_date" : "05/27/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mont Blanc Cricket", "Masira", "Shoujou", "Bellamy", "Sarquiss", "Ross", "Eddy", "Hewitt", "Rivers", "Muret", "South Bird", "Giant Mantis", "Insects"]
+  },
+  {
+    "chapter_num" : "232",
+    "volume_num" : "25",
+    "title_eng" : "The Hundred Million Man",
+    "title_jap" : "一億の男",
+    "release_date" : "06/03/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Mont Blanc Cricket", "Masira", "Shoujou", "Bellamy", "Sarquiss", "Lily", "Ross", "Eddy", "Rivers", "Mani", "Muret", "Jobo"]
+  },
+  {
+    "chapter_num" : "233",
+    "volume_num" : "25",
+    "title_eng" : "The Highest Authority in the World",
+    "title_jap" : "世界最高権力",
+    "release_date" : "06/10/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Whitebeard", "Portgas D. Ace", "Buggy", "Alvida", "Mohji", "Richie", "Cabaji", "Bellamy", "Sarquiss", "Lily", "Ross", "Eddy", "Hewitt", "Rivers", "Mani", "Muret", "Donquixote Doflamingo", "Bartholomew Kuma", "Jobo", "Oyakata", "Five Elders"]
+  },
+    {
+    "chapter_num" : "234",
+    "volume_num" : "25",
+    "title_eng" : "Please Be Sure to Remember It",
+    "title_jap" : "ご記憶下さいます様に",
+    "release_date" : "06/17/2002",
+    "pages" : "19",
+    "characters" : ["Whitebeard", "Marco", "Jozu", "Shanks", "Benn Beckman", "Lucky Roux", "Yasopp", "Rockstar", "Marshall D. Teach", "Van Augur", "Jesus Burgess", "Doc Q", "Stronger", "Laffitte", "Sarquiss", "Dracule Mihawk", "Donquixote Doflamingo", "Bartholomew Kuma", "Sengoku", "Tsuru", "Stainless", "Mozambia", "Cancer"]
+  },
+  {
+    "chapter_num" : "235",
+    "volume_num" : "25",
+    "title_eng" : "Knock Up Stream",
+    "title_jap" : "突き上げる海流",
+    "release_date" : "06/24/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Marshall D. Teach", "Van Augur", "Jesus Burgess", "Doc Q", "Stronger"]
+  },
+    {
+    "chapter_num" : "236",
+    "volume_num" : "25",
+    "title_eng" : "The Ship Goes Into the Sky",
+    "title_jap" : "船は空をゆく",
+    "release_date" : "07/01/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mont Blanc Cricket", "Masira", "Shoujou", "Marshall D. Teach", "Van Augur", "Jesus Burgess", "Doc Q", "Stronger"]
+  },
+  {
+    "chapter_num" : "237",
+    "volume_num" : "26",
+    "title_eng" : "In the Sky",
+    "title_jap" : "上空にて",
+    "release_date" : "07/08/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro","Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Marshall D. Teach", "Van Augur", "Jesus Burgess", "Doc Q", "Stronger", "Wyper", "Gan Fall", "Pierre", "Sky Fish"]
+  },
+  {
+    "chapter_num" : "238",
+    "volume_num" : "26",
+    "title_eng" : "Heaven's Gate",
+    "title_jap" : "天国の門",
+    "release_date" : "07/15/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Pierre", "Amazon", "Speedy Shrimp"]
+  },
+  {
+    "chapter_num" : "239",
+    "volume_num" : "26",
+    "title_eng" : "Angel Beach",
+    "title_jap" : "エンジェルビーチ",
+    "release_date" : "07/22/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Conis", "Pagaya", "Su"]
+  },
+  {
+    "chapter_num" : "240",
+    "volume_num" : "26",
+    "title_eng" : "Dial Energy",
+    "title_jap" : "ダイアル・エネルギー",
+    "release_date" : "07/29/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Conis", "Pagaya", "Su"]
+  },
+  {
+    "chapter_num" : "241",
+    "volume_num" : "26",
+    "title_eng" : "The Judgment of Heaven",
+    "title_jap" : "天の裁き",
+    "release_date" : "08/05/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Conis", "Pagaya", "McKinley", "Amazon", "Wyper", "Enel", "Ohm", "Shura", "Gedatsu", "Satori", "Holy", "Fuza", "Zabo"]
+  },
+  {
+    "chapter_num" : "242",
+    "volume_num" : "26",
+    "title_eng" : "Class 2 Criminals",
+    "title_jap" : "第2級犯罪者",
+    "release_date" : "08/12/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Conis", "Pagaya", "Su", "McKinley"]
+  },
+  {
+    "chapter_num" : "243",
+    "volume_num" : "26",
+    "title_eng" : "Ordeals",
+    "title_jap" : "試練",
+    "release_date" : "08/26/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Conis", "Pagaya", "Su", "McKinley", "Super-Express Speedy Shrimp"]
+  },
+  {
+    "chapter_num" : "244",
+    "volume_num" : "26",
+    "title_eng" : "SOS",
+    "title_jap" : "SOS",
+    "release_date" : "09/02/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Sanji", "Gan Fall", "Pierre", "Conis", "Pagaya", "Su", "McKinley"]
+  },
+  {
+    "chapter_num" : "245",
+    "volume_num" : "26",
+    "title_eng" : "Adventure on God's Island",
+    "title_jap" : "神の島の冒険",
+    "release_date" : "09/09/2002",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Sky Lamprey", "Sky Shark"]
+  },
+  {
+    "chapter_num" : "246",
+    "volume_num" : "26",
+    "title_eng" : "Satori, Priest of the Wandering Forest",
+    "title_jap" : "迷いの森の神官サトリ",
+    "release_date" : "09/14/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Sanji", "Ohm", "Shura", "Gedatsu", "Satori"]
+  },
+  {
+    "chapter_num" : "247",
+    "volume_num" : "27",
+    "title_eng" : "Ordeal of Balls",
+    "title_jap" : "玉の試練",
+    "release_date" : "09/22/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Shura", "Satori", "Fuza"]
+  },
+  {
+    "chapter_num" : "248",
+    "volume_num" : "27",
+    "title_eng" : "Former God vs Priest",
+    "title_jap" : "元神様 vs 神官",
+    "release_date" : "10/07/2002",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Tony Tony Chopper", "Gan Fall", "Pagaya", "Pierre", "Conis", "Wyper", "Kamakiri", "Braham", "Shura", "Fuza"]
+  },
+  {
+    "chapter_num" : "249",
+    "volume_num" : "27",
+    "title_eng" : "The Hidden Cloud Village",
+    "title_jap" : "雲隠れの村",
+    "release_date" : "10/12/2002",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Pierre", "Shura", "Fuza", "Wyper", "Kamakiri", "Braham", "Genbo", "Raki", "Aisa"]
+  },
+  {
+    "chapter_num" : "250",
+    "volume_num" : "27",
+    "title_eng" : "Ball Dragon",
+    "title_jap" : "玉ドラゴン",
+    "release_date" : "10/21/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Sanji", "Tony Tony Chopper", "Gan Fall", "Pierre", "Shura", "Satori", "Fuza"]
+  },
+  {
+    "chapter_num" : "251",
+    "volume_num" : "27",
+    "title_eng" : "Overture",
+    "title_jap" : "序曲(オーバーチュア)",
+    "release_date" : "10/28/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Sanji", "Tony Tony Chopper", "Gan Fall", "Pierre", "Shura", "Satori", "Fuza"]
+  },
+  {
+    "chapter_num" : "252",
+    "volume_num" : "27",
+    "title_eng" : "Junction",
+    "title_jap" : "JUNCTION",
+    "release_date" : "11/02/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Pierre", "Wyper", "Kamakiri", "Braham", "Genbo", "Raki", "Ohm", "Shura", "Gedatsu", "Holy", "Fuza"]
+  },
+  {
+    "chapter_num" : "253",
+    "volume_num" : "27",
+    "title_eng" : "Vearth",
+    "title_jap" : "ヴァース",
+    "release_date" : "11/11/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Pierre", "Wyper", "Kamakiri", "Raki", "Ohm", "Gedatsu", "Holy", "Cloud Wolf"]
+  },
+  {
+    "chapter_num" : "254",
+    "volume_num" : "27",
+    "title_eng" : "Aubade",
+    "title_jap" : "夜明曲(オーバード)",
+    "release_date" : "11/18/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Pierre", "Enel", "Ohm", "Shura", "Gedatsu", "Yama"]
+  },
+  {
+    "chapter_num" : "255",
+    "volume_num" : "27",
+    "title_eng" : "The Anaconda and the Search Team",
+    "title_jap" : "うわばみと探索組",
+    "release_date" : "11/25/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Pierre", "Enel", "Ohm", "Shura", "Gedatsu", "Satori", "Yama", "Nola"]
+  },
+  {
+    "chapter_num" : "256",
+    "volume_num" : "28",
+    "title_eng" : "Wyper the Berserker",
+    "title_jap" : "「戦鬼」ワイパー",
+    "release_date" : "12/02/2002",
+    "pages" : "19",
+    "characters" : ["Wyper", "Kamakiri", "Braham", "Genbo", "Raki", "Isa", "Enel", "Shura", "Fuza", "Gode", "Gan Fall"]
+  },
+  {
+    "chapter_num" : "257",
+    "volume_num" : "28",
+    "title_eng" : "Dial Battle",
+    "title_jap" : "貝バトル",
+    "release_date" : "12/09/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Enel", "Shura", "Yama", "Fuza", "Gan Fall", "Pierre", "Wyper", "Kamakiri", "Braham", "Genbo", "Raki"]
+  },
+  {
+    "chapter_num" : "258",
+    "volume_num" : "28",
+    "title_eng" : "Several Ways South",
+    "title_jap" : "いろんな南",
+    "release_date" : "12/16/2002",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Tony Tony Chopper", "Nico Robin", "Wyper", "Braham"]
+  },
+  {
+    "chapter_num" : "259",
+    "volume_num" : "28",
+    "title_eng" : "Zoro the Pirate vs Braham the Warrior",
+    "title_jap" : "海賊ゾロ vs 戦士ブラハム",
+    "release_date" : "12/30/2002",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Enel", "Gedatsu", "Braham", "Gan Fall"]
+  },
+  {
+    "chapter_num" : "260",
+    "volume_num" : "28",
+    "title_eng" : "Luffy the Pirate vs Wyper the Berserker",
+    "title_jap" : "海賊ルフィ vs 戦鬼ワイパー",
+    "release_date" : "01/06/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Enel", "Gan Fall", "Wyper"]
+  },
+  {
+    "chapter_num" : "261",
+    "volume_num" : "28",
+    "title_eng" : "Genbo the Warrior vs Yama the Head Holy Guard",
+    "title_jap" : "戦士ゲンボウ vs 神兵町ヤマ",
+    "release_date" : "01/20/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gedatsu", "Yama", "Hotori", "Kotori", "Wyper", "Genbo", "Gan Fall", "Pierre"]
+  },
+    {
+    "chapter_num" : "262",
+    "volume_num" : "28",
+    "title_eng" : "Chopper the Pirate vs Gedatsu the Priest",
+    "title_jap" : "海賊チョッパー vs 神官ゲダツ",
+    "release_date" : "01/27/2003",
+    "pages" : "19",
+    "characters" : ["Tony Tony Chopper", "Gedatsu"]
+  },
+    {
+    "chapter_num" : "263",
+    "volume_num" : "28",
+    "title_eng" : "Nami the Pirate and the Weird Knight vs the Holy Guard Lieutenants Hotori and Kotori",
+    "title_jap" : "海賊ナミと変な騎士 vs 副神兵長ホトリとコトリ",
+    "release_date" : "02/03/2003",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Gedatsu", "Yama", "Hotori", "Kotori", "Kamakiri", "Gan Fall", "Pierre"]
+  },
+  {
+    "chapter_num" : "264",
+    "volume_num" : "28",
+    "title_eng" : "Kamakiri the Warrior vs God Enel",
+    "title_jap" : "戦士カマキリ vs 神・エネル",
+    "release_date" : "02/10/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Ohm", "Yama", "Holy", "Wyper", "Kamakiri", "Aisa", "Gan Fall", "Pierre", "Conis", "Pagaya"]
+  },
+  {
+    "chapter_num" : "265",
+    "volume_num" : "29",
+    "title_eng" : "Robin the Pirate vs Yama the Head Holy Warrior",
+    "title_jap" : "海賊ロビン vs 神兵長ヤマ",
+    "release_date" : "02/17/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Nico Robin", "Enel", "Yama", "Aisa", "Conis", "Pagaya", "Su"]
+  },
+  {
+    "chapter_num" : "266",
+    "volume_num" : "29",
+    "title_eng" : "Chopper the Pirate vs. Ohm the Priest",
+    "title_jap" : "海賊チョッパー vs 神官オーム",
+    "release_date" : "02/24/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Tony Tony Chopper", "Nico Robin", "Ohm", "Holy", "Kamakiri", "Raki"]
+  },
+  {
+    "chapter_num" : "267",
+    "volume_num" : "29",
+    "title_eng" : "March",
+    "title_jap" : "行進曲(マーチ)",
+    "release_date" : "03/03/2003",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Ohm", "Holy", "Aisa", "Wyper", "Conis", "Pagaya", "Gan Fall", "Pierre", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "268",
+    "volume_num" : "29",
+    "title_eng" : "Suite",
+    "title_jap" : "組曲(スウィート)",
+    "release_date" : "03/10/2003",
+    "pages" : "18",
+    "characters" : ["Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Ohm", "Holy", "Aisa", "Wyper", "Gan Fall", "Pierre", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "269",
+    "volume_num" : "29",
+    "title_eng" : "Concerto",
+    "title_jap" : "協奏曲(コンチェルト)",
+    "release_date" : "03/17/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Shura", "Satori", "Ohm", "Holy", "Braham", "Kamakiri", "Genbo", "Raki", "Wyper", "Aisa", "Pagaya", "Conis", "Gan Fall", "Su", "Pierre", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "270",
+    "volume_num" : "29",
+    "title_eng" : "Serenade",
+    "title_jap" : "小夜曲(セレナーデ)",
+    "release_date" : "03/31/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Ohm", "Holy", "Enel", "Wyper", "Raki", "Kamakiri", "Aisa", "Gan Fall", "Nola 'King of the Sky'", "Pierre"]
+  },
+  {
+    "chapter_num" : "271",
+    "volume_num" : "29",
+    "title_eng" : "Zoro the Pirate vs Ohm the Priest",
+    "title_jap" : "海賊ゾロ vs 神官オーム",
+    "release_date" : "04/07/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Ohm", "Holy", "Aisa", "Wyper", "Gan Fall", "Pierre", "Nola 'King of the Sky'", "Matsuge"]
+  },
+  {
+    "chapter_num" : "272",
+    "volume_num" : "29",
+    "title_eng" : "Play",
+    "title_jap" : "戯曲",
+    "release_date" : "04/14/2003",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Usopp", "Tony Tony Chopper", "Sanji", "Nico Robin", "Enel", "Ohm", "Holy", "Wyper", "Pagaya", "Conis", "Nola 'King of the Sky'", "Su"]
+  },
+  {
+    "chapter_num" : "273",
+    "volume_num" : "29",
+    "title_eng" : "Quintet",
+    "title_jap" : "五重奏(クインテット)",
+    "release_date" : "04/21/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Aisa", "Gan Fall", "Pierre", "Nola 'King of the Sky'"]
+  },
+    {
+    "chapter_num" : "274",
+    "volume_num" : "29",
+    "title_eng" : "Oratorio",
+    "title_jap" : "聖譚曲(オラトリオ)",
+    "release_date" : "04/28/2003",
+    "pages" : "20",
+    "characters" : ["Roronoa Zoro", "Nami", "Nico Robin", "Enel", "Wyper", "Gan Fall", "Conis", "Mochi"]
+  },
+    {
+    "chapter_num" : "275",
+    "volume_num" : "29",
+    "title_eng" : "Divina Comedia",
+    "title_jap" : "神曲(ディビーナコメイディア)",
+    "release_date" : "05/12/2003",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Nico Robin", "Enel", "Gan Fall", "Wyper", "Braham", "Kamakiri", "Genbo", "Raki", "Shandia Chief"]
+  },
+    {
+    "chapter_num" : "276",
+    "volume_num" : "30",
+    "title_eng" : "Shandia Rhythm",
+    "title_jap" : "SHANDIA RHYTHM",
+    "release_date" : "05/19/2003",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Shandia Chief", "Gan Fall", "Conis", "McKinley"]
+  },
+  {
+    "chapter_num" : "277",
+    "volume_num" : "30",
+    "title_eng" : "Maxim",
+    "title_jap" : "箴言(マクシム)",
+    "release_date" : "05/26/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Aisa", "Gan Fall", "Conis", "McKinley", "Nola 'King of the Sky'", "Pierre"]
+  },
+  {
+    "chapter_num" : "278",
+    "volume_num" : "30",
+    "title_eng" : "Conis",
+    "title_jap" : "コニス",
+    "release_date" : "06/02/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Enel", "Aisa", "Wyper", "Conis", "McKinley", "Pagaya", "Pierre", "Gan Fall"]
+  },
+  {
+    "chapter_num" : "279",
+    "volume_num" : "30",
+    "title_eng" : "Luffy the Pirate vs God Enel",
+    "title_jap" : "海賊ルフィ vsバーサス 神ゴッド・エネル",
+    "release_date" : "06/09/2003",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Nami", "Enel", "Aisa", "Conis", "McKinley", "Pierre"]
+  },
+  {
+    "chapter_num" : "280",
+    "volume_num" : "30",
+    "title_eng" : "Surfacing",
+    "title_jap" : "浮上",
+    "release_date" : "06/16/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Enel", "Aisa", "Pierre"]
+  },
+  {
+    "chapter_num" : "281",
+    "volume_num" : "30",
+    "title_eng" : "Deathpiea",
+    "title_jap" : "デスピア",
+    "release_date" : "06/23/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Enel", "Aisa", "Shandia Chief", "Pierre", "McKinley", "Conis"]
+  },
+  {
+    "chapter_num" : "282",
+    "volume_num" : "30",
+    "title_eng" : "Desire",
+    "title_jap" : "望み",
+    "release_date" : "06/30/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Aisa", "Pierre", "Conis", "Su"]
+  },
+  {
+    "chapter_num" : "283",
+    "volume_num" : "30",
+    "title_eng" : "Operation Love Rescue: Front Line",
+    "title_jap" : "恋の救出前線",
+    "release_date" : "07/07/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Nico Robin", "Enel", "Shandia Chief", "Aisa", "Su", "Conis", "Pierre"]
+  },
+  {
+    "chapter_num" : "284",
+    "volume_num" : "30",
+    "title_eng" : "Thanks",
+    "title_jap" : "悪ィな",
+    "release_date" : "07/14/2003",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Sanji", "Enel"]
+  },
+  {
+    "chapter_num" : "285",
+    "volume_num" : "30",
+    "title_eng" : "Capriccio",
+    "title_jap" : "狂想曲(カプリッチオ)",
+    "release_date" : "07/19/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Aisa", "Wyper", "Shandia Chief", "Pierre", "Gan Fall", "McKinley", "Conis", "Su"]
+  },
+  {
+    "chapter_num" : "286",
+    "volume_num" : "31",
+    "title_eng" : "The Monster of Shandora",
+    "title_jap" : "シャンドラの魔物",
+    "release_date" : "07/28/2003",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Shandia Chief", "Aisa", "Wyper", "Kalgara", "Amazon", "McKinley", "Conis", "Su", "Pierre", "Gan Fall", "Mont Blanc Noland"]
+  },
+  {
+    "chapter_num" : "287",
+    "volume_num" : "31",
+    "title_eng" : "Godkiller",
+    "title_jap" : "神殺し",
+    "release_date" : "08/11/2003",
+    "pages" : "19",
+    "characters" : ["Kalgara", "Seto", "Mousse", "Kashigami", "Mont Blanc Noland"]
+  },
+  {
+    "chapter_num" : "288",
+    "volume_num" : "31",
+    "title_eng" : "Curse",
+    "title_jap" : "祟り",
+    "release_date" : "08/25/2003",
+    "pages" : "19",
+    "characters" : ["Kashigami", "Kalgara", "Mousse", "Seto", "Mont Blanc Noland"]
+  },
+  {
+    "chapter_num" : "289",
+    "volume_num" : "31",
+    "title_eng" : "Full Moon",
+    "title_jap" : "望月",
+    "release_date" : "09/01/2003",
+    "pages" : "21",
+    "characters" : ["Kalgara", "Seto", "Mousse", "Jaya", "Mont Blanc Noland", "Lvneel Expedition Doctor"]
+  },
+  {
+    "chapter_num" : "290",
+    "volume_num" : "31",
+    "title_eng" : "The Light of Shandora",
+    "title_jap" : "シャンドラの灯",
+    "release_date" : "09/08/2003",
+    "pages" : "19",
+    "characters" : ["Kalgara", "Seto", "Mousse", "Nola 'King of the Sky'", "Mont Blanc Noland", "Lvneel Expedition Doctor"]
+  },
+  {
+    "chapter_num" : "291",
+    "volume_num" : "31",
+    "title_eng" : "I'm Right Here",
+    "title_jap" : "ここにいる",
+    "release_date" : "09/13/2003",
+    "pages" : "19",
+    "characters" : ["Seto", "Mousse", "Kalgara", "Mont Blanc Noland", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "292",
+    "volume_num" : "31",
+    "title_eng" : "Meeting a Broken Moon Through the Clouds",
+    "title_jap" : "あふことは片われ月の雲隠れ",
+    "release_date" : "09/22/2003",
+    "pages" : "19",
+    "characters" : ["God of Skypiea", "Kalgara", "Seto", "Lvneel King", "Mont Blanc Noland", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "293",
+    "volume_num" : "31",
+    "title_eng" : "Bolero",
+    "title_jap" : "舞曲",
+    "release_date" : "09/29/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Shandia Chief", "Kalgara", "Aisa", "Gan Fall", "McKinley", "Conis", "Su", "Pierre", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "294",
+    "volume_num" : "31",
+    "title_eng" : "Raigoh",
+    "title_jap" : "雷迎",
+    "release_date" : "10/06/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Aisa", "Shandia Chief", "Gan Fall", "Pierre", "Conis", "Su", "Cricket"]
+  },
+  {
+    "chapter_num" : "295",
+    "volume_num" : "31",
+    "title_eng" : "Giant Jack",
+    "title_jap" : "巨大豆蔓",
+    "release_date" : "10/11/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Wyper", "Aisa", "Gan Fall", "Pierre", "Cricket"]
+  },
+  {
+    "chapter_num" : "296",
+    "volume_num" : "32",
+    "title_eng" : "High-Altitude Situation",
+    "title_jap" : "最空局面",
+    "release_date" : "10/20/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Nico Robin", "Enel", "Gan Fall", "Conis", "Su", "McKinley", "Wyper", "Aisa", "Nola 'King of the Sky'", "Shandia Chief", "Seto", "Kalgara"]
+  },
+  {
+    "chapter_num" : "297",
+    "volume_num" : "32",
+    "title_eng" : "Praises of the Earth",
+    "title_jap" : "大地讃称",
+    "release_date" : "10/27/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Enel", "Aisa", "Wyper", "Shandia Chief", "Nola 'King of the Sky'", "Gan Fall", "Su", "Conis", "McKinley", "Pierre"]
+  },
+  {
+    "chapter_num" : "298",
+    "volume_num" : "32",
+    "title_eng" : "Love Song",
+    "title_jap" : "島の歌声",
+    "release_date" : "11/01/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Nico Robin", "Enel", "Shandia Chief", "Wyper", "Aisa", "Nola 'King of the Sky'", "Kalgara", "McKinley", "Conis", "Gan Fall", "Pierre", "Mont Blanc Noland", "Mont Blanc Cricket"]
+  },
+  {
+    "chapter_num" : "299",
+    "volume_num" : "32",
+    "title_eng" : "Fantasia",
+    "title_jap" : "幻想曲",
+    "release_date" : "11/10/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Cricket", "Masira", "Shoujou", "Utan Divers", "Enel", "Aisa", "Shandia Chief", "Wyper", "Nola 'King of the Sky'", "Kalgara", "Gan Fall", "Pierre", "Conis", "McKinley", "Su", "South Bird", "Noland"]
+  },
+  {
+    "chapter_num" : "300",
+    "volume_num" : "32",
+    "title_eng" : "Symphony",
+    "title_jap" : "交響曲",
+    "release_date" : "11/22/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Satori", "Shura", "Gedatsu", "Ohm", "Enel", "Aisa", "Raki", "Kamakiri", "Braham", "Genbo", "Wyper", "Shandia Chief", "Nola 'King of the Sky'", "Gan Fall", "Conis", "Pierre", "Pagaya", "McKinley", "Amazon", "Su", "Cloud Wolf"]
+  },
+  {
+    "chapter_num" : "301",
+    "volume_num" : "32",
+    "title_eng" : "I Was Here",
+    "title_jap" : "我ここに至る",
+    "release_date" : "12/01/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "Kamakiri", "Braham", "Genbo", "Nola 'King of the Sky'", "Pierre"]
+  },
+  {
+    "chapter_num" : "302",
+    "volume_num" : "32",
+    "title_eng" : "Finale",
+    "title_jap" : "最終楽章",
+    "release_date" : "12/08/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Gan Fall", "McKinley", "Conis", "Pagaya", "Shandia Chief", "Raki", "Aisa", "Wyper", "Kamakiri", "Braham", "Genbo", "Pierre", "Su", "South Bird", "Nola 'King of the Sky'"]
+  },
+  {
+    "chapter_num" : "303",
+    "volume_num" : "32",
+    "title_eng" : "Rich Pirates",
+    "title_jap" : "金持ち海賊団",
+    "release_date" : "12/15/2003",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mont Blanc Cricket", "Shoujou", "Masira", "Utan Divers", "Donquixote Doflamingo", "Bellamy", "Sarquiss", "Rivers", "Lily", "Ross", "Muret", "Eddy", "Hewitt", "Aokiji", "Five Elders"]
+  },
+  {
+    "chapter_num" : "304",
+    "volume_num" : "32",
+    "title_eng" : "Adventure on a Long Island",
+    "title_jap" : "長い島の冒険",
+    "release_date" : "12/22/2003",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Shelly", "Tonjit"]
+  },
+  {
+    "chapter_num" : "305",
+    "volume_num" : "32",
+    "title_eng" : "Foxy the Silver Fox",
+    "title_jap" : "銀ギツネのフォクシー",
+    "release_date" : "01/05/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Usopp", "Tony Tony Chopper", "Foxy the Silver Fox", "Porche", "Hamburg", "Shelly", "Tonjit"]
+  },
+  {
+    "chapter_num" : "306",
+    "volume_num" : "33",
+    "title_eng" : "Donut Race",
+    "title_jap" : "ドーナツレース！！",
+    "release_date" : "01/19/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Hamburg", "Kibagaeru", "Itomimizu", "Chuchun", "Capote", "Monda", "Shelly", "Tonjit"]
+  },
+  {
+    "chapter_num" : "307",
+    "volume_num" : "33",
+    "title_eng" : "Ready, Donuts",
+    "title_jap" : "レディ～イ ドーナツ！！",
+    "release_date" : "12/26/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Capote", "Hamburg", "Itomimizu", "Chuchun", "Monda"]
+  },
+  {
+    "chapter_num" : "308",
+    "volume_num" : "33",
+    "title_eng" : "The Grand Interference Plan",
+    "title_jap" : "妨害大作戦",
+    "release_date" : "02/02/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Capote", "Hamburg", "Itomimizu", "Chuchun", "Monda"]
+  },
+  {
+    "chapter_num" : "309",
+    "volume_num" : "33",
+    "title_eng" : "Groggy Monsters",
+    "title_jap" : "グロッキーモンスターズ",
+    "release_date" : "02/09/2004",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Capote", "Hamburg", "Itomimizu", "Chuchun", "Monda", "Pickles", "Big Pan"]
+  },
+  {
+    "chapter_num" : "310",
+    "volume_num" : "33",
+    "title_eng" : "Groggy Ring!!",
+    "title_jap" : "グロッキーリング！！",
+    "release_date" : "02/16/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Hamburg", "Itomimizu", "Chuchun", "Pickles", "Big Pan"]
+  },
+  {
+    "chapter_num" : "311",
+    "volume_num" : "33",
+    "title_eng" : "Rough Game",
+    "title_jap" : "ラフゲーム",
+    "release_date" : "02/23/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Hamburg", "Itomimizu", "Chuchun", "Pickles", "Big Pan"]
+  },
+    {
+    "chapter_num" : "312",
+    "volume_num" : "33",
+    "title_eng" : "GOAL!!",
+    "title_jap" : "GOAL!!",
+    "release_date" : "03/01/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Capote", "Hamburg", "Itomimizu", "Chuchun", "Pickles", "Big Pan"]
+  },
+  {
+    "chapter_num" : "313",
+    "volume_num" : "33",
+    "title_eng" : "MAIN EVENT",
+    "title_jap" : "MAIN EVENT",
+    "release_date" : "03/08/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Hamburg", "Itomimizu", "Chuchun", "Pickles", "Big Pan"]
+  },
+  {
+    "chapter_num" : "314",
+    "volume_num" : "33",
+    "title_eng" : "Combat!!!",
+    "title_jap" : "コンバット！！！",
+    "release_date" : "03/15/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox"]
+  },
+  {
+    "chapter_num" : "315",
+    "volume_num" : "33",
+    "title_eng" : "Secret Room",
+    "title_jap" : "秘密の部屋",
+    "release_date" : "03/22/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Itomimizu", "Chuchun"]
+  },
+  {
+    "chapter_num" : "316",
+    "volume_num" : "33",
+    "title_eng" : "Brother Soul",
+    "title_jap" : "ブラザー魂",
+    "release_date" : "03/29/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Itomimizu", "Chuchun"]
+  },
+  {
+    "chapter_num" : "317",
+    "volume_num" : "34",
+    "title_eng" : "K.O.",
+    "title_jap" : "K.O.",
+    "release_date" : "04/12/2004",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Itomimizu"]
+  },
+  {
+    "chapter_num" : "318",
+    "volume_num" : "34",
+    "title_eng" : "Closure",
+    "title_jap" : "閉会",
+    "release_date" : "04/19/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Foxy the Silver Fox", "Porche", "Hamburg", "Itomimizu", "Chuchun", "Monda", "Capote", "Pickles", "Big Pan", "Sonieh", "Donovan", "Gina", "Aokiji", "Tonjit", "Shelly"]
+  },
+  {
+    "chapter_num" : "319",
+    "volume_num" : "34",
+    "title_eng" : "Marine Headquarters Admiral, Aokiji",
+    "title_jap" : "海軍本部「大将」青キジ",
+    "release_date" : "04/26/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Aokiji", "Kizaru", "Akainu", "Tonjit", "Shelly", "Master of the Waters"]
+  },
+  {
+    "chapter_num" : "320",
+    "volume_num" : "34",
+    "title_eng" : "Greatest Power",
+    "title_jap" : "最高戦力",
+    "release_date" : "05/10/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Aokiji"]
+  },
+  {
+    "chapter_num" : "321",
+    "volume_num" : "34",
+    "title_eng" : "One-on-One",
+    "title_jap" : "一騎討ち",
+    "release_date" : "05/17/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Aokiji"]
+  },
+  {
+    "chapter_num" : "322",
+    "volume_num" : "34",
+    "title_eng" : "Puffing Tom",
+    "title_jap" : "パッフィング・トム",
+    "release_date" : "05/24/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Kokoro", "Chimney", "Gonbe", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "323",
+    "volume_num" : "34",
+    "title_eng" : "The Water Metropolis, Water 7",
+    "title_jap" : "「水の都」 ウォーターセブン",
+    "release_date" : "05/31/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Mikazuki", "Kokoro", "Chimney", "Gonbe", "Iceburg", "Kalifa", "Tyrannosaurus", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "324",
+    "volume_num" : "34",
+    "title_eng" : "Adventure in the City on the Water",
+    "title_jap" : "水上都市の冒険",
+    "release_date" : "06/07/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Zambai", "Rob Lucci", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "325",
+    "volume_num" : "34",
+    "title_eng" : "The Franky Family",
+    "title_jap" : "フランキー一家",
+    "release_date" : "06/14/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Nico Robin", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Blueno", "Iceburg", "Kalifa", "Tyrannosaurus", "Kaku", "Ishigo Shitemanna"]
+  },
+  {
+    "chapter_num" : "326",
+    "volume_num" : "34",
+    "title_eng" : "Iceburg-san",
+    "title_jap" : "アイスバーグさん",
+    "release_date" : "06/21/2004",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Zambai", "Kiev", "Scholizo", "Tamagon", "Blueno", "Iceburg", "Kalifa", "Tyrannosaurus", "Kaku", "Paulie", "Bimine"]
+  },
+  {
+    "chapter_num" : "327",
+    "volume_num" : "34",
+    "title_eng" : "Shipyard Island, Construction Dock No. 1",
+    "title_jap" : "造船島 造船工場1番ドック",
+    "release_date" : "06/28/2004",
+    "pages" : "21",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Zambai", "Kiev", "Tamagon", "Kop", "Iceburg", "Kalifa", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Tyrannosaurus"]
+  },
+  {
+    "chapter_num" : "328",
+    "volume_num" : "35",
+    "title_eng" : "The Pirate Kidnapping Incident",
+    "title_jap" : "海賊誘拐事件",
+    "release_date" : "07/12/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Corgi", "Iceburg", "Kalifa", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tyrannosaurus"]
+  },
+  {
+    "chapter_num" : "329",
+    "volume_num" : "35",
+    "title_eng" : "My Name Is Franky",
+    "title_jap" : "おれの名は「フランキー」",
+    "release_date" : "07/17/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Kairiki Destroyers", "Kaku"]
+  },
+  {
+    "chapter_num" : "330",
+    "volume_num" : "35",
+    "title_eng" : "I've Decided",
+    "title_jap" : "決めた",
+    "release_date" : "07/26/2004",
+    "pages" : "17",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Kairiki Destroyers"]
+  },
+  {
+    "chapter_num" : "331",
+    "volume_num" : "35",
+    "title_eng" : "A Big Quarrel",
+    "title_jap" : "大喧嘩",
+    "release_date" : "//2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Corgi", "Iceburg", "Kalifa", "Tyrannosaurus"]
+  },
+  {
+    "chapter_num" : "332",
+    "volume_num" : "35",
+    "title_eng" : "Luffy vs. Usopp",
+    "title_jap" : "ルフィ vs ウソップ",
+    "release_date" : "08/09/2004",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper"]
+  },
+    {
+    "chapter_num" : "333",
+    "volume_num" : "35",
+    "title_eng" : "Captain",
+    "title_jap" : "船長",
+    "release_date" : "08/23/2004",
+    "pages" : "",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper"]
+  },
+  {
+    "chapter_num" : "334",
+    "volume_num" : "35",
+    "title_eng" : "The Case of the Sealed Room",
+    "title_jap" : "密室の大事件",
+    "release_date" : "08/30/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Franky", "Mozu", "Kiwi", "Iceburg", "Kalifa", "Tyrannosaurus", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Kakukaku", "Kyukyu"]
+  },
+  {
+    "chapter_num" : "335",
+    "volume_num" : "35",
+    "title_eng" : "WARNING",
+    "title_jap" : "WARNING",
+    "release_date" : "09/06/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Kop", "Blueno", "Iceburg", "Kalifa", "Tyrannosaurus", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "336",
+    "volume_num" : "35",
+    "title_eng" : "Luffy vs. Franky",
+    "title_jap" : "ルフィ vs フランキー",
+    "release_date" : "09/13/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Nico Robin", "Franky", "Mozu", "Kiwi", "Iceburg", "Kalifa", "Tyrannosaurus", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "337",
+    "volume_num" : "36",
+    "title_eng" : "Guards of the \\\"Water Metropolis\\\"",
+    "title_jap" : "「水の都」の用心棒",
+    "release_date" : "09/18/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Nico Robin", "Franky", "Mozu", "Kiwi", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+    {
+    "chapter_num" : "338",
+    "volume_num" : "36",
+    "title_eng" : "Coup de Vent",
+    "title_jap" : "風来砲",
+    "release_date" : "09/27/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Franky", "Mozu", "Kiwi", "Kokoro", "Chimney", "Gonbe", "Rob Lucci", "Hattori", "Kaku", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "339",
+    "volume_num" : "36",
+    "title_eng" : "Rumors",
+    "title_jap" : "うわさ",
+    "release_date" : "10/04/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Nico Robin", "Iceburg", "Kalifa", "Tyrannosaurus", "Franky", "Mozu", "Kiwi", "Corgi", "Rob Lucci", "Kaku", "Blueno", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "340",
+    "volume_num" : "36",
+    "title_eng" : "The Woman Who Brings Darkness",
+    "title_jap" : "闇を引く女",
+    "release_date" : "10/09/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Aokiji", "Kaku"]
+  },
+    {
+    "chapter_num" : "341",
+    "volume_num" : "36",
+    "title_eng" : "Devil",
+    "title_jap" : "悪魔",
+    "release_date" : "10/18/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Nico Robin", "Happa Yamao", "Blueno", "Kokoro", "Chimney", "Gonbe", "Franky", "Mozu", "Kiwi", "Iceburg", "Tyrannosaurus", "Paulie", "Peepley Lulu", "Tilestone", "Rob Lucci", "Kaku", "Kalifa", "Hattori"]
+  },
+  {
+    "chapter_num" : "342",
+    "volume_num" : "36",
+    "title_eng" : "Messengers of Darkness",
+    "title_jap" : "闇の使者",
+    "release_date" : "10/25/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Nico Robin", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Blueno", "Kalifa", "Kaku", "Rob Lucci", "Iceburg", "Tyrannosaurus", "Hattori", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "343",
+    "volume_num" : "36",
+    "title_eng" : "Cipher Pol No. 9",
+    "title_jap" : "CIPHER POL No.9",
+    "release_date" : "11/01/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Blueno", "Kalifa", "Kaku", "Rob Lucci", "Paulie", "Iceburg", "Tyrannosaurus", "Hattori", "Tilestone"]
+  },
+    {
+    "chapter_num" : "344",
+    "volume_num" : "36",
+    "title_eng" : "Opposing Powers",
+    "title_jap" : "抵抗勢力",
+    "release_date" : "11/08/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Blueno", "Rob Lucci", "Kaku", "Iceburg", "Hattori", "Paulie", "Tilestone"]
+  },
+    {
+    "chapter_num" : "345",
+    "volume_num" : "36",
+    "title_eng" : "The Concealed",
+    "title_jap" : "潜伏者",
+    "release_date" : "11/15/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nico Robin", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Iceburg", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "346",
+    "volume_num" : "36",
+    "title_eng" : "The 9th Justice",
+    "title_jap" : "9番目の正義",
+    "release_date" : "11/29/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Franky", "Iceburg", "Paulie"]
+  },
+    {
+    "chapter_num" : "347",
+    "volume_num" : "37",
+    "title_eng" : "Rokushiki",
+    "title_jap" : "六式",
+    "release_date" : "12/06/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Iceburg", "Paulie"]
+  },
+  {
+    "chapter_num" : "348",
+    "volume_num" : "37",
+    "title_eng" : "Combat Power",
+    "title_jap" : "戦闘力",
+    "release_date" : "12/13/2004",
+    "pages" : "20",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Iceburg", "Paulie"]
+  },
+  {
+    "chapter_num" : "349",
+    "volume_num" : "37",
+    "title_eng" : "One Citizen",
+    "title_jap" : "一市民",
+    "release_date" : "12/20/2004",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Iceburg", "Paulie", "Tyrannosaurus"]
+  },
+  {
+    "chapter_num" : "350",
+    "volume_num" : "37",
+    "title_eng" : "Warehouse Under the Bridge",
+    "title_jap" : "橋の下倉庫",
+    "release_date" : "01/03/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "351",
+    "volume_num" : "37",
+    "title_eng" : "Klabautermann",
+    "title_jap" : "クラバウターマン",
+    "release_date" : "01/17/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Franky", "Mozu", "Kiwi"]
+  },
+  {
+    "chapter_num" : "352",
+    "volume_num" : "37",
+    "title_eng" : "Tom's Workers",
+    "title_jap" : "トムズ ワーカーズ",
+    "release_date" : "01/24/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Franky", "Mozu", "Kiwi", "Itomimizu", "Iceburg", "Kokoro", "Yokozuna"]
+  },
+    {
+    "chapter_num" : "353",
+    "volume_num" : "37",
+    "title_eng" : "The Legendary Shipwright",
+    "title_jap" : "伝説の船大工",
+    "release_date" : "01/31/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Jorge", "Blueno", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Franky", "Mozu", "Kiwi", "Tom", "Iceburg", "Kokoro", "Yokozuna", "Gol D. Roger"]
+  },
+  {
+    "chapter_num" : "354",
+    "volume_num" : "37",
+    "title_eng" : "Sea Train",
+    "title_jap" : "海列車",
+    "release_date" : "02/07/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Jorge", "Tom", "Iceburg", "Franky", "Kokoro", "Yokozuna", "Paulie", "Mozu", "Kiwi"]
+  },
+  {
+    "chapter_num" : "355",
+    "volume_num" : "37",
+    "title_eng" : "Spandam",
+    "title_jap" : "スパンダム",
+    "release_date" : "02/14/2005",
+    "pages" : "19",
+    "characters" : ["Nico Robin", "Five Elders", "Jorge", "Spandam", "Tom", "Iceburg", "Franky", "Kokoro", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "356",
+    "volume_num" : "37",
+    "title_eng" : "Tom-san",
+    "title_jap" : "トムさん",
+    "release_date" : "02/28/2005",
+    "pages" : "19",
+    "characters" : ["Jorge", "Spandam", "Tom", "Iceburg", "Franky", "Kokoro", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "357",
+    "volume_num" : "37",
+    "title_eng" : "Cutty Flam",
+    "title_jap" : "カティ・フラム",
+    "release_date" : "03/07/2005",
+    "pages" : "21",
+    "characters" : ["Jorge", "Spandam", "Tom", "Iceburg", "Franky", "Kokoro", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "358",
+    "volume_num" : "38",
+    "title_eng" : "Revival",
+    "title_jap" : "復活",
+    "release_date" : "03/14/2005",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Tony Tony Chopper", "Spandam", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Franky", "Kokoro", "Iceburg", "Tyrannosaurus", "Paulie"]
+  },
+    {
+    "chapter_num" : "359",
+    "volume_num" : "38",
+    "title_eng" : "Bingo",
+    "title_jap" : "ビンゴ",
+    "release_date" : "03/19/2005",
+    "pages" : "19",
+    "characters" : ["Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Aokiji", "Corgi", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Franky", "Iceburg", "Tyrannosaurus", "Paulie"]
+  },
+  {
+    "chapter_num" : "360",
+    "volume_num" : "38",
+    "title_eng" : "Departing Soon",
+    "title_jap" : "まもなく出航",
+    "release_date" : "03/28/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Corgi", "Rob Lucci", "Kaku", "Blueno", "Kalifa", "Franky", "Iceburg", "Paulie", "Tyrannosaurus"]
+  },
+  {
+    "chapter_num" : "361",
+    "volume_num" : "38",
+    "title_eng" : "P.S.",
+    "title_jap" : "追伸",
+    "release_date" : "04/04/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Franky", "Paulie", "Bushon", "Stevie"]
+  },
+  {
+    "chapter_num" : "362",
+    "volume_num" : "38",
+    "title_eng" : "Ebb Tide",
+    "title_jap" : "引き潮",
+    "release_date" : "04/11/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nami", "Sanji", "Tony Tony Chopper", "T Bone", "Corgi", "Jerry", "Wanze", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Nero", "Iceburg", "Paulie", "Bushon", "Stevie", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "363",
+    "volume_num" : "38",
+    "title_eng" : "Aqua Laguna",
+    "title_jap" : "アクア・ラグナ",
+    "release_date" : "04/18/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Nico Robin", "Paulie", "Kokoro", "Chimney", "Gonbe"]
+  },
+    {
+    "chapter_num" : "364",
+    "volume_num" : "38",
+    "title_eng" : "Kokoro",
+    "title_jap" : "ココロ",
+    "release_date" : "04/25/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Tony Tony Chopper", "Paulie", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "365",
+    "volume_num" : "38",
+    "title_eng" : "Rocketman!!",
+    "title_jap" : "ロケットマン！！",
+    "release_date" : "05/09/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "T Bone", "Spandam", "Funkfreed", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Iceburg", "Paulie", "Bushon", "Stevie", "Kokoro", "Chimney", "Gonbe"]
+  },
+    {
+    "chapter_num" : "366",
+    "volume_num" : "38",
+    "title_eng" : "Sortie!!",
+    "title_jap" : "出撃！！",
+    "release_date" : "05/16/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "T Bone", "Jerry", "Rob Lucci", "Hattori", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Kairiki Destroyers", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "367",
+    "volume_num" : "38",
+    "title_eng" : "Sogeking",
+    "title_jap" : "そげキング",
+    "release_date" : "05/23/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "T Bone", "Wanze", "Nero", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Kairiki Destroyers", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe"]
+  },
+    {
+    "chapter_num" : "368",
+    "volume_num" : "39",
+    "title_eng" : "Sea Train Battle Game",
+    "title_jap" : "海列車バトルゲーム",
+    "release_date" : "05/30/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "T Bone", "Corgi", "Wanze", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Nero", "Franky", "Mozu", "Kiwi", "Zambai", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "369",
+    "volume_num" : "39",
+    "title_eng" : "Ramen Kenpo",
+    "title_jap" : "ラーメン拳法",
+    "release_date" : "06/06/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Sanji", "Nico Robin", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Nero", "Wanze", "Franky"]
+  },
+  {
+    "chapter_num" : "370",
+    "volume_num" : "39",
+    "title_eng" : "You're Not Alone",
+    "title_jap" : "一人じゃない",
+    "release_date" : "06/13/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Sanji", "Nico Robin", "Corgi", "Nero", "Wanze", "Franky"]
+  },
+  {
+    "chapter_num" : "371",
+    "volume_num" : "39",
+    "title_eng" : "The Admirable Captain T Bone",
+    "title_jap" : "天晴Tボーン大佐",
+    "release_date" : "06/20/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "T Bone", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kairiki Destroyers", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe", "Sea Kings"]
+  },
+    {
+    "chapter_num" : "372",
+    "volume_num" : "39",
+    "title_eng" : "Parage",
+    "title_jap" : "パラージュ",
+    "release_date" : "06/27/2005",
+    "pages" : "19",
+    "characters" : ["Sanji", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Nero", "Wanze", "Franky"]
+  },
+  {
+    "chapter_num" : "373",
+    "volume_num" : "39",
+    "title_eng" : "Necessary Evil",
+    "title_jap" : "必要悪",
+    "release_date" : "07/04/2005",
+    "pages" : "19",
+    "characters" : ["Usopp", "Sanji", "Nico Robin", "Corgi", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Nero", "Wanze", "Franky"]
+  },
+  {
+    "chapter_num" : "374",
+    "volume_num" : "39",
+    "title_eng" : "Struggle",
+    "title_jap" : "争奪戦",
+    "release_date" : "07/16/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Franky", "Mozu", "Kiwi", "Zambai", "Tamagon", "Kairiki Destroyers", "Sodom", "Gomorrah", "Kokoro", "Chimney", "Gonbe", "Paulie", "Peepley Lulu", "Tilestone", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "375",
+    "volume_num" : "39",
+    "title_eng" : "The Superhumans of Enies Lobby",
+    "title_jap" : "エニエス・ロビーの超人達",
+    "release_date" : "07/25/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Spandam", "Funkfreed", "Rob Lucci", "Kaku", "Kalifa", "Blueno", "Hattori", "Kumadori", "Jabra", "Fukurou", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Kairiki Destroyers", "Sodom", "Gomorrah", "Yokozuna", "Tom", "Kokoro", "Chimney", "Gonbe", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "376",
+    "volume_num" : "39",
+    "title_eng" : "Got It!!!",
+    "title_jap" : "わかった！！！",
+    "release_date" : "08/01/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Spandam", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Franky", "Mozu", "Kiwi", "Zambai", "Tamagon", "Kairiki Destroyers", "Sodom", "Gomorrah", "Kokoro", "Chimney", "Gonbe", "Paulie", "Peepley Lulu", "Tilestone", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "377",
+    "volume_num" : "39",
+    "title_eng" : "Great Battle on the Judiciary Island!!",
+    "title_jap" : "司法の島の大決戦！！",
+    "release_date" : "08/08/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Oimo", "Kashii", "Spandam", "Funkfreed", "Kumadori", "Jabra", "Fukurou", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kairiki Destroyers", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "378",
+    "volume_num" : "40",
+    "title_eng" : "Damage Report",
+    "title_jap" : "被害状況",
+    "release_date" : "08/22/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Oimo", "Kashii", "Spandam", "Kumadori", "Jabra", "Fukurou", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Kairiki Destroyers", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "379",
+    "volume_num" : "40",
+    "title_eng" : "Dōriki",
+    "title_jap" : "道力",
+    "release_date" : "08/29/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Nico Robin", "Gatherine", "Baskerville", "Spandam", "Funkfreed", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Kumadori", "Jabra", "Fukurou", "Franky"]
+  },
+  {
+    "chapter_num" : "380",
+    "volume_num" : "40",
+    "title_eng" : "Express to Enies Lobby, Main Island",
+    "title_jap" : "エニエス・ロビー本島行き急行便",
+    "release_date" : "09/05/2005",
+    "pages" : "19",
+    "characters" : ["Roronoa Zoro", "Nami", "Usopp", "Tony Tony Chopper", "Baskerville", "Oimo", "Kashii", "Watchdog Unit of the Law", "Mozu", "Kiwi", "Zambai", "Kiev", "Kop", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "381",
+    "volume_num" : "40",
+    "title_eng" : "Fired",
+    "title_jap" : "クビ",
+    "release_date" : "09/12/2005",
+    "pages" : "18",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Watchdog Unit of the Law", "Rob Lucci", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Kop", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe"]
+  },
+  {
+    "chapter_num" : "382",
+    "volume_num" : "40",
+    "title_eng" : "The Demon's Hideout",
+    "title_jap" : "鬼の隠れ家",
+    "release_date" : "09/17/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Spandam", "Funkfreed", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Kumadori", "Jabra", "Fukurou", "Franky", "Zambai", "Kiev", "Sodom", "Gomorrah", "Iceburg", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "383",
+    "volume_num" : "40",
+    "title_eng" : "Luffy vs Blueno",
+    "title_jap" : "ルフィ vs ブルーノ",
+    "release_date" : "09/26/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Watchdog Unit of the Law", "Rob Lucci", "Blueno", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Sodom", "Gomorrah", "Yokozuna", "Paulie", "Peepley Lulu", "Tilestone"]
+  },
+  {
+    "chapter_num" : "384",
+    "volume_num" : "40",
+    "title_eng" : "Raise the Counterattack Signal",
+    "title_jap" : "反撃ののろしを上げろ",
+    "release_date" : "10/03/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Nico Robin", "Dorry", "Brogy", "Kashii", "Oimo", "Just Eleven Jurymen", "Baskerville", "Watchdog Unit of the Law", "Blueno", "Franky", "Zambai", "Mozu", "Kiev", "Scholizo", "Tamagon", "Kop", "Sodom", "Gomorrah", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Chimney", "Gonbe", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "385",
+    "volume_num" : "40",
+    "title_eng" : "There Is a Way",
+    "title_jap" : "道はある",
+    "release_date" : "10/08/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Spandam", "Rob Lucci", "Hattori", "Kaku", "Kalifa", "Blueno", "Kumadori", "Jabra", "Fukurou", "Franky", "Zambai", "Mozu", "Kiwi", "Kiev", "Kop", "Sodom", "Gomorrah", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "386",
+    "volume_num" : "40",
+    "title_eng" : "Unprecedented",
+    "title_jap" : "前代未聞",
+    "release_date" : "10/17/2005",
+    "pages" : "15",
+    "characters" : ["Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Nico Robin", "Kashii", "Oimo", "Just Eleven Jurymen", "Spandam", "Funkfreed", "Blueno", "Franky", "Zambai", "Kiev", "Tamagon", "Kop", "Gomorrah", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "387",
+    "volume_num" : "40",
+    "title_eng" : "Gear",
+    "title_jap" : "ギア",
+    "release_date" : "10/31/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji", "Tony Tony Chopper", "Baskerville", "Spandam", "Blueno", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Yokozuna"]
+  },
+  {
+    "chapter_num" : "388",
+    "volume_num" : "40",
+    "title_eng" : "Gear Second",
+    "title_jap" : "ギア2",
+    "release_date" : "11/07/2005",
+    "pages" : "19",
+    "characters" : ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Oimo", "Kashii", "Baskerville", "Just Eleven Jurymen", "Spandam", "Blueno", "Franky", "Mozu", "Kiwi", "Zambai", "Kiev", "Scholizo", "Tamagon", "Kop", "Paulie", "Peepley Lulu", "Tilestone", "Kokoro", "Yokozuna"]
+  }
+]
